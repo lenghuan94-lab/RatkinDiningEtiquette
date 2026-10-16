@@ -1,0 +1,133 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <RDE_ToddlerAteOnChair.stages.0.label>이전 식사 기억 (사용 중지)</RDE_ToddlerAteOnChair.stages.0.label>
+  <RDE_ToddlerAteOnChair.stages.0.description>이전 버전의 이 기억은 저장을 불러오면 제거됩니다.</RDE_ToddlerAteOnChair.stages.0.description>
+  <RDE_ToddlerAteOnChair.stages.1.label>이전 식사 기억 (사용 중지)</RDE_ToddlerAteOnChair.stages.1.label>
+  <RDE_ToddlerAteOnChair.stages.1.description>이전 버전의 이 기억은 저장을 불러오면 제거됩니다.</RDE_ToddlerAteOnChair.stages.1.description>
+  <RDE_RatkinDiningSet.stages.0.label>이전 식사 기억 (사용 중지)</RDE_RatkinDiningSet.stages.0.label>
+  <RDE_RatkinDiningSet.stages.0.description>이전 버전의 이 기억은 저장을 불러오면 제거됩니다.</RDE_RatkinDiningSet.stages.0.description>
+  <RDE_RatkinDiningSet.stages.1.label>이전 식사 기억 (사용 중지)</RDE_RatkinDiningSet.stages.1.label>
+  <RDE_RatkinDiningSet.stages.1.description>이전 버전의 이 기억은 저장을 불러오면 제거됩니다.</RDE_RatkinDiningSet.stages.1.description>
+  <RDE_RatkinTableMixedChair.stages.0.label>이전 식사 기억 (사용 중지)</RDE_RatkinTableMixedChair.stages.0.label>
+  <RDE_RatkinTableMixedChair.stages.0.description>이전 버전의 이 기억은 저장을 불러오면 제거됩니다.</RDE_RatkinTableMixedChair.stages.0.description>
+  <RDE_RatkinTableMixedChair.stages.1.label>이전 식사 기억 (사용 중지)</RDE_RatkinTableMixedChair.stages.1.label>
+  <RDE_RatkinTableMixedChair.stages.1.description>이전 버전의 이 기억은 저장을 불러오면 제거됩니다.</RDE_RatkinTableMixedChair.stages.1.description>
+  <RDE_RatkinTableWithoutChair.stages.0.label>이전 식사 기억 (사용 중지)</RDE_RatkinTableWithoutChair.stages.0.label>
+  <RDE_RatkinTableWithoutChair.stages.0.description>이전 버전의 이 기억은 저장을 불러오면 제거됩니다.</RDE_RatkinTableWithoutChair.stages.0.description>
+  <RDE_RatkinTableWithoutChair.stages.1.label>이전 식사 기억 (사용 중지)</RDE_RatkinTableWithoutChair.stages.1.label>
+  <RDE_RatkinTableWithoutChair.stages.1.description>이전 버전의 이 기억은 저장을 불러오면 제거됩니다.</RDE_RatkinTableWithoutChair.stages.1.description>
+  <RDE_RatkinChairHighTable.stages.0.label>이전 식사 기억 (사용 중지)</RDE_RatkinChairHighTable.stages.0.label>
+  <RDE_RatkinChairHighTable.stages.0.description>이전 버전의 이 기억은 저장을 불러오면 제거됩니다.</RDE_RatkinChairHighTable.stages.0.description>
+  <RDE_RatkinChairHighTable.stages.1.label>이전 식사 기억 (사용 중지)</RDE_RatkinChairHighTable.stages.1.label>
+  <RDE_RatkinChairHighTable.stages.1.description>이전 버전의 이 기억은 저장을 불러오면 제거됩니다.</RDE_RatkinChairHighTable.stages.1.description>
+  <RDE_OrdinaryDiningSet.stages.0.label>이전 식사 기억 (사용 중지)</RDE_OrdinaryDiningSet.stages.0.label>
+  <RDE_OrdinaryDiningSet.stages.0.description>이전 버전의 이 기억은 저장을 불러오면 제거됩니다.</RDE_OrdinaryDiningSet.stages.0.description>
+  <RDE_OrdinaryDiningSet.stages.1.label>이전 식사 기억 (사용 중지)</RDE_OrdinaryDiningSet.stages.1.label>
+  <RDE_OrdinaryDiningSet.stages.1.description>이전 버전의 이 기억은 저장을 불러오면 제거됩니다.</RDE_OrdinaryDiningSet.stages.1.description>
+  <RDE_OrdinaryTableWithoutChair.stages.0.label>이전 식사 기억 (사용 중지)</RDE_OrdinaryTableWithoutChair.stages.0.label>
+  <RDE_OrdinaryTableWithoutChair.stages.0.description>이전 버전의 이 기억은 저장을 불러오면 제거됩니다.</RDE_OrdinaryTableWithoutChair.stages.0.description>
+  <RDE_OrdinaryTableWithoutChair.stages.1.label>이전 식사 기억 (사용 중지)</RDE_OrdinaryTableWithoutChair.stages.1.label>
+  <RDE_OrdinaryTableWithoutChair.stages.1.description>이전 버전의 이 기억은 저장을 불러오면 제거됩니다.</RDE_OrdinaryTableWithoutChair.stages.1.description>
+  <RDE_UsedChairAsTable.stages.0.label>맘마 자리 생겼다</RDE_UsedChairAsTable.stages.0.label>
+  <RDE_UsedChairAsTable.stages.0.description>큰 의자에 맘마 자리가 있어. 바닥에 안 놓아도 되고, 나도 닿아!</RDE_UsedChairAsTable.stages.0.description>
+  <RDE_UsedChairAsTable.stages.1.label>큰 의자에서 또 맘마</RDE_UsedChairAsTable.stages.1.label>
+  <RDE_UsedChairAsTable.stages.1.description>여기서 또 맘마 먹어. 의자는 크고, 배는 든든해.</RDE_UsedChairAsTable.stages.1.description>
+  <RDE_UsedChairAsTable.stages.2.label>맘마야, 앉아 있어!</RDE_UsedChairAsTable.stages.2.label>
+  <RDE_UsedChairAsTable.stages.2.description>이 의자에는 사람도 앉고 맘마도 앉아. 맘마야, 기다려. 내가 간다!</RDE_UsedChairAsTable.stages.2.description>
+  <RDE_UsedChairAsTable.stages.3.label>의자를 빌린 식탁</RDE_UsedChairAsTable.stages.3.label>
+  <RDE_UsedChairAsTable.stages.3.description>다른 사람은 의자에 앉고, 나는 밥을 올려놓지. 키는 작아도 아이디어는 많아.</RDE_UsedChairAsTable.stages.3.description>
+  <RDE_UsedChairAsTable.stages.4.label>내 의자 식당</RDE_UsedChairAsTable.stages.4.label>
+  <RDE_UsedChairAsTable.stages.4.description>또 이 의자야. 오늘 식당은 나만큼 작은 손님만 받아.</RDE_UsedChairAsTable.stages.4.description>
+  <RDE_UsedChairAsTable.stages.5.label>늘 먹던 자리, 내 밥</RDE_UsedChairAsTable.stages.5.label>
+  <RDE_UsedChairAsTable.stages.5.description>이 의자는 밥 올리기 딱 좋아. 앉고 싶으면 내가 이 한입 먹을 때까지 기다려!</RDE_UsedChairAsTable.stages.5.description>
+  <RDE_UsedChairAsTable.stages.6.label>또 의자를 빌렸다</RDE_UsedChairAsTable.stages.6.label>
+  <RDE_UsedChairAsTable.stages.6.description>밥을 의자 위에 올려놓았다. 먹을 수는 있지만 제대로 된 식사 같지는 않다.</RDE_UsedChairAsTable.stages.6.description>
+  <RDE_UsedChairAsTable.stages.7.label>밥은 앉고 나는 서고</RDE_UsedChairAsTable.stages.7.label>
+  <RDE_UsedChairAsTable.stages.7.description>또 의자다. 밥은 앉을 자리가 있는데, 나는 없다.</RDE_UsedChairAsTable.stages.7.description>
+  <RDE_UsedChairAsTable.stages.8.label>이 식사는 찍지 마</RDE_UsedChairAsTable.stages.8.label>
+  <RDE_UsedChairAsTable.stages.8.description>대체 몇 번째야? 다들 내가 밥 먹는 줄 알지만, 사실 의자에 밥을 차려 주고 있다.</RDE_UsedChairAsTable.stages.8.description>
+  <RDE_UsedChairAsTable.stages.9.label>의자 위에서 한 끼</RDE_UsedChairAsTable.stages.9.label>
+  <RDE_UsedChairAsTable.stages.9.description>잠깐 밥을 올려놓고, 다 먹으면 의자 본업으로 돌려보내자. 한 끼만 이렇게 먹지 뭐.</RDE_UsedChairAsTable.stages.9.description>
+  <RDE_UsedChairAsTable.stages.10.label>임시방편 또 연장</RDE_UsedChairAsTable.stages.10.label>
+  <RDE_UsedChairAsTable.stages.10.description>또 의자를 식탁으로 쓴다. 이 임시방편은 참 자주 연장된다.</RDE_UsedChairAsTable.stages.10.description>
+  <RDE_UsedChairAsTable.stages.11.label>의자에 밥자리 월세</RDE_UsedChairAsTable.stages.11.label>
+  <RDE_UsedChairAsTable.stages.11.description>한 끼, 또 한 끼를 의자 위에서 먹는다. 이 의자가 내 고정 식탁이 되겠다.</RDE_UsedChairAsTable.stages.11.description>
+  <RDE_RatkinChairAsTable.stages.0.label>작은 의자, 맘마 시간!</RDE_RatkinChairAsTable.stages.0.label>
+  <RDE_RatkinChairAsTable.stages.0.description>맘마가 가까워서 작은 앞발로도 닿아. 작은 의자야, 맘마 먹자!</RDE_RatkinChairAsTable.stages.0.description>
+  <RDE_RatkinChairAsTable.stages.1.label>맘마가 가까이 있어</RDE_RatkinChairAsTable.stages.1.label>
+  <RDE_RatkinChairAsTable.stages.1.description>또 작은 의자에서 먹어. 앞발만 쭉 뻗으면 맛있는 게 있어.</RDE_RatkinChairAsTable.stages.1.description>
+  <RDE_RatkinChairAsTable.stages.2.label>내 작은 의자야!</RDE_RatkinChairAsTable.stages.2.label>
+  <RDE_RatkinChairAsTable.stages.2.description>내 작은 의자! 맘마는 여기 놓아. 옮기지 마, 옮기지 마!</RDE_RatkinChairAsTable.stages.2.description>
+  <RDE_RatkinChairAsTable.stages.3.label>작은 의자, 큰 쓸모</RDE_RatkinChairAsTable.stages.3.label>
+  <RDE_RatkinChairAsTable.stages.3.description>랫킨 의자에 밥을 놓으니 높이가 딱 맞아. 작은 손님에게 작은 가구, 참 편해!</RDE_RatkinChairAsTable.stages.3.description>
+  <RDE_RatkinChairAsTable.stages.4.label>의자 식당 개업</RDE_RatkinChairAsTable.stages.4.label>
+  <RDE_RatkinChairAsTable.stages.4.description>오늘도 내 작은 식탁에서 밥 먹어. 입장권은 안 팔고, 키 큰 손님은 끼어들기 금지!</RDE_RatkinChairAsTable.stages.4.description>
+  <RDE_RatkinChairAsTable.stages.5.label>이 랫킨은 단골 자리가 있다</RDE_RatkinChairAsTable.stages.5.label>
+  <RDE_RatkinChairAsTable.stages.5.description>이 작은 의자는 잘 알지. 밥 놓고 앞발 뻗으면 오늘도 편하게 한 끼!</RDE_RatkinChairAsTable.stages.5.description>
+  <RDE_RatkinChairAsTable.stages.6.label>낮으니 더 편하다</RDE_RatkinChairAsTable.stages.6.label>
+  <RDE_RatkinChairAsTable.stages.6.description>작은 의자의 높이가 딱 맞다. 적어도 밥 먹으려고 키를 늘릴 필요는 없다.</RDE_RatkinChairAsTable.stages.6.description>
+  <RDE_RatkinChairAsTable.stages.7.label>이것이 랫킨의 지혜</RDE_RatkinChairAsTable.stages.7.label>
+  <RDE_RatkinChairAsTable.stages.7.description>또 작은 의자에 밥을 놓았다. 웃지 마. 내 키에 맞게 가구를 쓰는 거니까.</RDE_RatkinChairAsTable.stages.7.description>
+  <RDE_RatkinChairAsTable.stages.8.label>이 의자, 옮기지 마</RDE_RatkinChairAsTable.stages.8.label>
+  <RDE_RatkinChairAsTable.stages.8.description>앞발이 이 높이를 기억한다. 다른 사람은 가구를 바꾸지만, 나는 이 의자로 정했다.</RDE_RatkinChairAsTable.stages.8.description>
+  <RDE_RatkinChairAsTable.stages.9.label>크기가 맞으니 밥도 편하다</RDE_RatkinChairAsTable.stages.9.label>
+  <RDE_RatkinChairAsTable.stages.9.description>랫킨 의자에 밥을 놓으면 까치발도, 허리 굽히기도 필요 없다. 작은 가구는 작은 가구대로 좋다.</RDE_RatkinChairAsTable.stages.9.description>
+  <RDE_RatkinChairAsTable.stages.10.label>익숙한 앞발, 익숙한 의자</RDE_RatkinChairAsTable.stages.10.label>
+  <RDE_RatkinChairAsTable.stages.10.description>또 여기서 먹는다. 의자에 밥을 놓으면 앞발이 알아서 제자리를 찾는다.</RDE_RatkinChairAsTable.stages.10.description>
+  <RDE_RatkinChairAsTable.stages.11.label>작은 의자, 오랜 밥친구</RDE_RatkinChairAsTable.stages.11.label>
+  <RDE_RatkinChairAsTable.stages.11.description>몇 끼 같이 먹고 나니 이 작은 의자가 어떤 키 큰 사람보다 랫킨을 더 잘 안다. 그대로 두자.</RDE_RatkinChairAsTable.stages.11.description>
+  <RDE_ToddlerNoDiningHelp.stages.0.label>안아 주는 건?</RDE_ToddlerNoDiningHelp.stages.0.label>
+  <RDE_ToddlerNoDiningHelp.stages.0.description>맘마는 가져왔어. 의자는 저기 있는데, 나는 아직 여기 있어.</RDE_ToddlerNoDiningHelp.stages.0.description>
+  <RDE_ToddlerNoDiningHelp.stages.1.label>또 바닥 맘마</RDE_ToddlerNoDiningHelp.stages.1.label>
+  <RDE_ToddlerNoDiningHelp.stages.1.description>안아 주러 안 왔어… 또 바닥에서 맘마 먹어.</RDE_ToddlerNoDiningHelp.stages.1.description>
+  <RDE_ToddlerNoDiningHelp.stages.2.label>앞발 들고 있기도 힘들어</RDE_ToddlerNoDiningHelp.stages.2.label>
+  <RDE_ToddlerNoDiningHelp.stages.2.description>또야! 아직도 의자에 못 올라가. 기다리던 맘마도 졸려 하겠어.</RDE_ToddlerNoDiningHelp.stages.2.description>
+  <RDE_ToiletAsTable.stages.0.label>밥 먹는 의자가 아니야</RDE_ToiletAsTable.stages.0.label>
+  <RDE_ToiletAsTable.stages.0.description>변기 의자에 올려놓고 밥을 줬어. 엉덩이가 차갑고 냄새도 이상해… 안아 줘.</RDE_ToiletAsTable.stages.0.description>
+  <RDE_ToiletAsTable.stages.1.label>또 변기에서 밥</RDE_ToiletAsTable.stages.1.label>
+  <RDE_ToiletAsTable.stages.1.description>또 여기야? 꼬리를 말고 밥을 꼭 안았어. 다른 데로 가면 안 돼?</RDE_ToiletAsTable.stages.1.description>
+  <RDE_ToiletAsTable.stages.2.label>다 먹어도 안아 줘</RDE_ToiletAsTable.stages.2.label>
+  <RDE_ToiletAsTable.stages.2.description>안아 달라고 손을 뻗었는데 또 변기 밥이야. 다 먹었지만 아직 안아 줬으면 좋겠어.</RDE_ToiletAsTable.stages.2.description>
+  <RDE_ToiletAsTable.stages.3.label>밥 담는 그릇이 아니야</RDE_ToiletAsTable.stages.3.label>
+  <RDE_ToiletAsTable.stages.3.description>이게 어디에 쓰는 건지 알아! 작은 식탁이라고 부른다고 식탁이 되지는 않아.</RDE_ToiletAsTable.stages.3.description>
+  <RDE_ToiletAsTable.stages.4.label>화장실 단골손님</RDE_ToiletAsTable.stages.4.label>
+  <RDE_ToiletAsTable.stages.4.description>또 변기에서 밥을 먹었어. 빨리 먹으면서 아무도 문을 열지 않길 바랐어.</RDE_ToiletAsTable.stages.4.description>
+  <RDE_ToiletAsTable.stages.5.label>전용 식당은 물내림식</RDE_ToiletAsTable.stages.5.label>
+  <RDE_ToiletAsTable.stages.5.description>다들 정해진 식사 자리가 생겼어. 내 자리는 물도 내려가… 이제 웃지 마.</RDE_ToiletAsTable.stages.5.description>
+  <RDE_ToiletAsTable.stages.6.label>왕좌라고 부르지 마</RDE_ToiletAsTable.stages.6.label>
+  <RDE_ToiletAsTable.stages.6.description>변기에서 밥을 먹는데 왕의 만찬이래. 귀가 빨개졌지만 하나도 안 웃겨.</RDE_ToiletAsTable.stages.6.description>
+  <RDE_ToiletAsTable.stages.7.label>그 농담 재미없어</RDE_ToiletAsTable.stages.7.label>
+  <RDE_ToiletAsTable.stages.7.description>또 이 자리야. 꼬리를 피하고 누가 들어올까 봐 문을 보면서 먹었어.</RDE_ToiletAsTable.stages.7.description>
+  <RDE_ToiletAsTable.stages.8.label>식당 이름 짓지 마</RDE_ToiletAsTable.stages.8.label>
+  <RDE_ToiletAsTable.stages.8.description>그래, 이제 여기서 밥을 먹어. 그렇다고 내 변기 식당에 별명을 붙여도 되는 건 아니야.</RDE_ToiletAsTable.stages.8.description>
+  <RDE_ToiletAsTable.stages.9.label>도자기에 못 담는 체면</RDE_ToiletAsTable.stages.9.label>
+  <RDE_ToiletAsTable.stages.9.description>밥과 변기와 나. 이 셋이 어울리는 척하느라 애쓰고 있다.</RDE_ToiletAsTable.stages.9.description>
+  <RDE_ToiletAsTable.stages.10.label>누가 이 자리를 예약했나</RDE_ToiletAsTable.stages.10.label>
+  <RDE_ToiletAsTable.stages.10.description>또 변기 자리다. 내 식사 예약에는 배수 시설과 구경꾼까지 포함되나 보다.</RDE_ToiletAsTable.stages.10.description>
+  <RDE_ToiletAsTable.stages.11.label>오늘의 특선은 체념</RDE_ToiletAsTable.stages.11.label>
+  <RDE_ToiletAsTable.stages.11.description>여기서 몇 끼째인지. 이제 꼬리를 어디에 둘지도 익숙하다. 배우고 싶었던 건 아닌데.</RDE_ToiletAsTable.stages.11.description>
+  <RDE_SpecialSeatAsTable.stages.0.label>이상한 밥 자리</RDE_SpecialSeatAsTable.stages.0.label>
+  <RDE_SpecialSeatAsTable.stages.0.description>이상한 자리에 올려놓고 밥을 줬어. 꼬리를 돌돌. 익숙한 데로 가고 싶어.</RDE_SpecialSeatAsTable.stages.0.description>
+  <RDE_SpecialSeatAsTable.stages.1.label>또 이상한 의자</RDE_SpecialSeatAsTable.stages.1.label>
+  <RDE_SpecialSeatAsTable.stages.1.description>또 이 의자야… 밥을 꼭 안고 나를 올려 준 사람을 찾아.</RDE_SpecialSeatAsTable.stages.1.description>
+  <RDE_SpecialSeatAsTable.stages.2.label>아직 안아 줬으면 해</RDE_SpecialSeatAsTable.stages.2.label>
+  <RDE_SpecialSeatAsTable.stages.2.description>또 여기서 밥을 먹어. 배는 부른데 내려 달라고 손은 계속 뻗고 있어.</RDE_SpecialSeatAsTable.stages.2.description>
+  <RDE_SpecialSeatAsTable.stages.3.label>다른 용도가 있잖아</RDE_SpecialSeatAsTable.stages.3.label>
+  <RDE_SpecialSeatAsTable.stages.3.description>앉을 수 있으면 먹을 수도 있대. 하지만 이건 다른 일에 쓰는 물건이잖아.</RDE_SpecialSeatAsTable.stages.3.description>
+  <RDE_SpecialSeatAsTable.stages.4.label>빌린 자리의 불안한 식사</RDE_SpecialSeatAsTable.stages.4.label>
+  <RDE_SpecialSeatAsTable.stages.4.description>또 여기서 식사한다. 누가 이 물건을 쓰러 올 것 같아서 불안하다.</RDE_SpecialSeatAsTable.stages.4.description>
+  <RDE_SpecialSeatAsTable.stages.5.label>정착지의 이상한 자리 식당</RDE_SpecialSeatAsTable.stages.5.label>
+  <RDE_SpecialSeatAsTable.stages.5.description>다른 용도의 자리가 내 식사 자리로 굳었다. 내가 원하는지는 아무도 안 물었다.</RDE_SpecialSeatAsTable.stages.5.description>
+  <RDE_SpecialSeatAsTable.stages.6.label>먹는 것 좀 보지 마</RDE_SpecialSeatAsTable.stages.6.label>
+  <RDE_SpecialSeatAsTable.stages.6.description>이런 자리에서 식사하다니. 벌써 농담이 들리는 것 같다. 조용히 먹게 해 줘.</RDE_SpecialSeatAsTable.stages.6.description>
+  <RDE_SpecialSeatAsTable.stages.7.label>자리의 부업은 망신 주기</RDE_SpecialSeatAsTable.stages.7.label>
+  <RDE_SpecialSeatAsTable.stages.7.description>또 한 끼다. 이 자리는 본래 일을 하고 나를 창피하게 하는 추가 근무까지 한다.</RDE_SpecialSeatAsTable.stages.7.description>
+  <RDE_SpecialSeatAsTable.stages.8.label>농담이 지정석이 됐다</RDE_SpecialSeatAsTable.stages.8.label>
+  <RDE_SpecialSeatAsTable.stages.8.description>너무 자주 먹어서 다들 곧장 이곳을 가리킨다. 그때마다 귀가 축 처진다.</RDE_SpecialSeatAsTable.stages.8.description>
+  <RDE_SpecialSeatAsTable.stages.9.label>다른 일을 맡은 자리</RDE_SpecialSeatAsTable.stages.9.label>
+  <RDE_SpecialSeatAsTable.stages.9.description>다른 용도의 가구에서 식사했다. 내 체면을 빼면 실용적인 해결책이다.</RDE_SpecialSeatAsTable.stages.9.description>
+  <RDE_SpecialSeatAsTable.stages.10.label>임시 식사 자리가 일상으로</RDE_SpecialSeatAsTable.stages.10.label>
+  <RDE_SpecialSeatAsTable.stages.10.description>또 여기서 식사한다. 배치는 점점 고정되고 반대하는 목소리는 점점 작아진다.</RDE_SpecialSeatAsTable.stages.10.description>
+  <RDE_SpecialSeatAsTable.stages.11.label>이상한 자리에서 지정 식사</RDE_SpecialSeatAsTable.stages.11.label>
+  <RDE_SpecialSeatAsTable.stages.11.description>이곳이 내 식사 자리란다. 또 한마디 듣기 전에 식사를 끝내고 떠나자.</RDE_SpecialSeatAsTable.stages.11.description>
+</LanguageData>

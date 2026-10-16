@@ -1,0 +1,133 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <RDE_ToddlerAteOnChair.stages.0.label>устаревшее воспоминание об обеде</RDE_ToddlerAteOnChair.stages.0.label>
+  <RDE_ToddlerAteOnChair.stages.0.description>Это воспоминание из прежней версии удаляется при загрузке сохранения.</RDE_ToddlerAteOnChair.stages.0.description>
+  <RDE_ToddlerAteOnChair.stages.1.label>устаревшее воспоминание об обеде</RDE_ToddlerAteOnChair.stages.1.label>
+  <RDE_ToddlerAteOnChair.stages.1.description>Это воспоминание из прежней версии удаляется при загрузке сохранения.</RDE_ToddlerAteOnChair.stages.1.description>
+  <RDE_RatkinDiningSet.stages.0.label>устаревшее воспоминание об обеде</RDE_RatkinDiningSet.stages.0.label>
+  <RDE_RatkinDiningSet.stages.0.description>Это воспоминание из прежней версии удаляется при загрузке сохранения.</RDE_RatkinDiningSet.stages.0.description>
+  <RDE_RatkinDiningSet.stages.1.label>устаревшее воспоминание об обеде</RDE_RatkinDiningSet.stages.1.label>
+  <RDE_RatkinDiningSet.stages.1.description>Это воспоминание из прежней версии удаляется при загрузке сохранения.</RDE_RatkinDiningSet.stages.1.description>
+  <RDE_RatkinTableMixedChair.stages.0.label>устаревшее воспоминание об обеде</RDE_RatkinTableMixedChair.stages.0.label>
+  <RDE_RatkinTableMixedChair.stages.0.description>Это воспоминание из прежней версии удаляется при загрузке сохранения.</RDE_RatkinTableMixedChair.stages.0.description>
+  <RDE_RatkinTableMixedChair.stages.1.label>устаревшее воспоминание об обеде</RDE_RatkinTableMixedChair.stages.1.label>
+  <RDE_RatkinTableMixedChair.stages.1.description>Это воспоминание из прежней версии удаляется при загрузке сохранения.</RDE_RatkinTableMixedChair.stages.1.description>
+  <RDE_RatkinTableWithoutChair.stages.0.label>устаревшее воспоминание об обеде</RDE_RatkinTableWithoutChair.stages.0.label>
+  <RDE_RatkinTableWithoutChair.stages.0.description>Это воспоминание из прежней версии удаляется при загрузке сохранения.</RDE_RatkinTableWithoutChair.stages.0.description>
+  <RDE_RatkinTableWithoutChair.stages.1.label>устаревшее воспоминание об обеде</RDE_RatkinTableWithoutChair.stages.1.label>
+  <RDE_RatkinTableWithoutChair.stages.1.description>Это воспоминание из прежней версии удаляется при загрузке сохранения.</RDE_RatkinTableWithoutChair.stages.1.description>
+  <RDE_RatkinChairHighTable.stages.0.label>устаревшее воспоминание об обеде</RDE_RatkinChairHighTable.stages.0.label>
+  <RDE_RatkinChairHighTable.stages.0.description>Это воспоминание из прежней версии удаляется при загрузке сохранения.</RDE_RatkinChairHighTable.stages.0.description>
+  <RDE_RatkinChairHighTable.stages.1.label>устаревшее воспоминание об обеде</RDE_RatkinChairHighTable.stages.1.label>
+  <RDE_RatkinChairHighTable.stages.1.description>Это воспоминание из прежней версии удаляется при загрузке сохранения.</RDE_RatkinChairHighTable.stages.1.description>
+  <RDE_OrdinaryDiningSet.stages.0.label>устаревшее воспоминание об обеде</RDE_OrdinaryDiningSet.stages.0.label>
+  <RDE_OrdinaryDiningSet.stages.0.description>Это воспоминание из прежней версии удаляется при загрузке сохранения.</RDE_OrdinaryDiningSet.stages.0.description>
+  <RDE_OrdinaryDiningSet.stages.1.label>устаревшее воспоминание об обеде</RDE_OrdinaryDiningSet.stages.1.label>
+  <RDE_OrdinaryDiningSet.stages.1.description>Это воспоминание из прежней версии удаляется при загрузке сохранения.</RDE_OrdinaryDiningSet.stages.1.description>
+  <RDE_OrdinaryTableWithoutChair.stages.0.label>устаревшее воспоминание об обеде</RDE_OrdinaryTableWithoutChair.stages.0.label>
+  <RDE_OrdinaryTableWithoutChair.stages.0.description>Это воспоминание из прежней версии удаляется при загрузке сохранения.</RDE_OrdinaryTableWithoutChair.stages.0.description>
+  <RDE_OrdinaryTableWithoutChair.stages.1.label>устаревшее воспоминание об обеде</RDE_OrdinaryTableWithoutChair.stages.1.label>
+  <RDE_OrdinaryTableWithoutChair.stages.1.description>Это воспоминание из прежней версии удаляется при загрузке сохранения.</RDE_OrdinaryTableWithoutChair.stages.1.description>
+  <RDE_UsedChairAsTable.stages.0.label>Для еды нашлось место</RDE_UsedChairAsTable.stages.0.label>
+  <RDE_UsedChairAsTable.stages.0.description>На большом стуле есть место для еды. Не на полу, и лапки достают!</RDE_UsedChairAsTable.stages.0.description>
+  <RDE_UsedChairAsTable.stages.1.label>Большой стул снова кормит</RDE_UsedChairAsTable.stages.1.label>
+  <RDE_UsedChairAsTable.stages.1.description>Снова кушаем здесь. Стул большой, животик полный.</RDE_UsedChairAsTable.stages.1.description>
+  <RDE_UsedChairAsTable.stages.2.label>Еда, сиди спокойно!</RDE_UsedChairAsTable.stages.2.label>
+  <RDE_UsedChairAsTable.stages.2.description>На этом стуле сидят и люди, и еда. Не двигайся, еда! Я иду!</RDE_UsedChairAsTable.stages.2.description>
+  <RDE_UsedChairAsTable.stages.3.label>Стул вместо столика</RDE_UsedChairAsTable.stages.3.label>
+  <RDE_UsedChairAsTable.stages.3.description>Другие на стульях сидят, а я ставлю на них еду. Рост маленький, зато идей много.</RDE_UsedChairAsTable.stages.3.description>
+  <RDE_UsedChairAsTable.stages.4.label>Моя столовая на стуле</RDE_UsedChairAsTable.stages.4.label>
+  <RDE_UsedChairAsTable.stages.4.description>Снова этот стул. Сегодня моя столовая принимает только таких маленьких гостей, как я.</RDE_UsedChairAsTable.stages.4.description>
+  <RDE_UsedChairAsTable.stages.5.label>Место привычное, еда моя</RDE_UsedChairAsTable.stages.5.label>
+  <RDE_UsedChairAsTable.stages.5.description>На этот стул удобно ставить еду. Кто хочет сесть, пусть подождёт, пока я прожую!</RDE_UsedChairAsTable.stages.5.description>
+  <RDE_UsedChairAsTable.stages.6.label>Снова одалживаю стул</RDE_UsedChairAsTable.stages.6.label>
+  <RDE_UsedChairAsTable.stages.6.description>Еда на сиденье. Есть можно, но на нормальный обед это не очень похоже.</RDE_UsedChairAsTable.stages.6.description>
+  <RDE_UsedChairAsTable.stages.7.label>Еда сидит, я стою</RDE_UsedChairAsTable.stages.7.label>
+  <RDE_UsedChairAsTable.stages.7.description>Опять стул. У еды есть место, а у меня нет.</RDE_UsedChairAsTable.stages.7.description>
+  <RDE_UsedChairAsTable.stages.8.label>Не снимайте этот обед</RDE_UsedChairAsTable.stages.8.label>
+  <RDE_UsedChairAsTable.stages.8.description>Это уже в который раз? Все думают, что я обедаю, а на деле я подаю еду стулу.</RDE_UsedChairAsTable.stages.8.description>
+  <RDE_UsedChairAsTable.stages.9.label>Один обед на сиденье</RDE_UsedChairAsTable.stages.9.label>
+  <RDE_UsedChairAsTable.stages.9.description>Одолжить стул для обеда, а потом вернуть его к обычной работе. Один раз можно и так.</RDE_UsedChairAsTable.stages.9.description>
+  <RDE_UsedChairAsTable.stages.10.label>Временное решение продлено</RDE_UsedChairAsTable.stages.10.label>
+  <RDE_UsedChairAsTable.stages.10.description>Снова использую стул как стол. Удивительно часто это временное решение продлевают.</RDE_UsedChairAsTable.stages.10.description>
+  <RDE_UsedChairAsTable.stages.11.label>Плачу стулу аренду за обед</RDE_UsedChairAsTable.stages.11.label>
+  <RDE_UsedChairAsTable.stages.11.description>Обед за обедом на этом сиденье. Скоро у моей еды появится постоянный адрес.</RDE_UsedChairAsTable.stages.11.description>
+  <RDE_RatkinChairAsTable.stages.0.label>Маленький стульчик, пора кушать!</RDE_RatkinChairAsTable.stages.0.label>
+  <RDE_RatkinChairAsTable.stages.0.description>Еда близко, лапки достают. Маленький стульчик, пора кушать!</RDE_RatkinChairAsTable.stages.0.description>
+  <RDE_RatkinChairAsTable.stages.1.label>Еда совсем рядом</RDE_RatkinChairAsTable.stages.1.label>
+  <RDE_RatkinChairAsTable.stages.1.description>Снова кушаем у маленького стульчика. Только протяни лапку — и вот вкусняшка.</RDE_RatkinChairAsTable.stages.1.description>
+  <RDE_RatkinChairAsTable.stages.2.label>Мой маленький стульчик!</RDE_RatkinChairAsTable.stages.2.label>
+  <RDE_RatkinChairAsTable.stages.2.description>Мой маленький стульчик! Еду сюда. Не уносите, ну пожалуйста!</RDE_RatkinChairAsTable.stages.2.description>
+  <RDE_RatkinChairAsTable.stages.3.label>Маленький стул, большая польза</RDE_RatkinChairAsTable.stages.3.label>
+  <RDE_RatkinChairAsTable.stages.3.description>На раткинском стуле еда как раз на нужной высоте. Маленькая мебель для маленьких гостей. Удобно!</RDE_RatkinChairAsTable.stages.3.description>
+  <RDE_RatkinChairAsTable.stages.4.label>Столовая на стуле открыта</RDE_RatkinChairAsTable.stages.4.label>
+  <RDE_RatkinChairAsTable.stages.4.description>Снова обедаю за своим маленьким столиком. Билеты не продаю, большим гостям тесниться тут нельзя!</RDE_RatkinChairAsTable.stages.4.description>
+  <RDE_RatkinChairAsTable.stages.5.label>У этого раткина своё место</RDE_RatkinChairAsTable.stages.5.label>
+  <RDE_RatkinChairAsTable.stages.5.description>Этот маленький стул я хорошо знаю. Поставить еду, протянуть лапку — и можно спокойно обедать.</RDE_RatkinChairAsTable.stages.5.description>
+  <RDE_RatkinChairAsTable.stages.6.label>Пониже — поудобнее</RDE_RatkinChairAsTable.stages.6.label>
+  <RDE_RatkinChairAsTable.stages.6.description>Маленький стул как раз нужной высоты. Хотя бы ради обеда не приходится вытягиваться.</RDE_RatkinChairAsTable.stages.6.description>
+  <RDE_RatkinChairAsTable.stages.7.label>Раткинская смекалка</RDE_RatkinChairAsTable.stages.7.label>
+  <RDE_RatkinChairAsTable.stages.7.description>Снова еда на маленьком стуле. Не смейтесь. Это использование мебели с учётом роста.</RDE_RatkinChairAsTable.stages.7.description>
+  <RDE_RatkinChairAsTable.stages.8.label>Вот этот, не уносите</RDE_RatkinChairAsTable.stages.8.label>
+  <RDE_RatkinChairAsTable.stages.8.description>Лапки уже помнят эту высоту. Другие меняют мебель, а я выбираю этот стул.</RDE_RatkinChairAsTable.stages.8.description>
+  <RDE_RatkinChairAsTable.stages.9.label>Размер подходит, есть удобно</RDE_RatkinChairAsTable.stages.9.label>
+  <RDE_RatkinChairAsTable.stages.9.description>Раткинский стул держит еду так, что не надо вставать на цыпочки или наклоняться. У маленькой мебели свои плюсы.</RDE_RatkinChairAsTable.stages.9.description>
+  <RDE_RatkinChairAsTable.stages.10.label>Знакомые лапки, знакомый стул</RDE_RatkinChairAsTable.stages.10.label>
+  <RDE_RatkinChairAsTable.stages.10.description>Снова ем здесь. Стоит поставить еду на сиденье — и лапки уже знают, куда тянуться.</RDE_RatkinChairAsTable.stages.10.description>
+  <RDE_RatkinChairAsTable.stages.11.label>Маленький стул, старый друг по обедам</RDE_RatkinChairAsTable.stages.11.label>
+  <RDE_RatkinChairAsTable.stages.11.description>За несколько обедов этот маленький стул понял раткинов лучше некоторых высоких людей. Пусть остаётся здесь.</RDE_RatkinChairAsTable.stages.11.description>
+  <RDE_ToddlerNoDiningHelp.stages.0.label>А на ручки?</RDE_ToddlerNoDiningHelp.stages.0.label>
+  <RDE_ToddlerNoDiningHelp.stages.0.description>Еда уже тут. Стул там. А я всё ещё здесь.</RDE_ToddlerNoDiningHelp.stages.0.description>
+  <RDE_ToddlerNoDiningHelp.stages.1.label>Опять обед на полу</RDE_ToddlerNoDiningHelp.stages.1.label>
+  <RDE_ToddlerNoDiningHelp.stages.1.description>Никто не пришёл взять на ручки… Снова кушаем на полу.</RDE_ToddlerNoDiningHelp.stages.1.description>
+  <RDE_ToddlerNoDiningHelp.stages.2.label>Лапки устали проситься</RDE_ToddlerNoDiningHelp.stages.2.label>
+  <RDE_ToddlerNoDiningHelp.stages.2.description>Опять! Всё ещё не получается залезть. Даже еда уже засыпает от ожидания.</RDE_ToddlerNoDiningHelp.stages.2.description>
+  <RDE_ToiletAsTable.stages.0.label>это не стульчик для еды</RDE_ToiletAsTable.stages.0.label>
+  <RDE_ToiletAsTable.stages.0.description>Меня посадили на горшок с едой. Попе холодно, запах странный... Хочу на ручки.</RDE_ToiletAsTable.stages.0.description>
+  <RDE_ToiletAsTable.stages.1.label>опять обед на горшке</RDE_ToiletAsTable.stages.1.label>
+  <RDE_ToiletAsTable.stages.1.description>Опять здесь? Хвостик поджать, еду прижать. Можно в другое место?</RDE_ToiletAsTable.stages.1.description>
+  <RDE_ToiletAsTable.stages.2.label>после еды возьми на ручки</RDE_ToiletAsTable.stages.2.label>
+  <RDE_ToiletAsTable.stages.2.description>Тяну лапки, чтобы обняли, а меня опять сажают есть на горшок. Животик сытый, но всё ещё хочу на ручки.</RDE_ToiletAsTable.stages.2.description>
+  <RDE_ToiletAsTable.stages.3.label>это не миска для еды</RDE_ToiletAsTable.stages.3.label>
+  <RDE_ToiletAsTable.stages.3.description>Я знаю, для чего эта штука! Если назвать её моим столиком, столиком она не станет.</RDE_ToiletAsTable.stages.3.description>
+  <RDE_ToiletAsTable.stages.4.label>завсегдатай туалета</RDE_ToiletAsTable.stages.4.label>
+  <RDE_ToiletAsTable.stages.4.description>Опять еда у унитаза. Ем быстро и надеюсь, что никто сейчас не откроет дверь.</RDE_ToiletAsTable.stages.4.description>
+  <RDE_ToiletAsTable.stages.5.label>личная столовая со смывом</RDE_ToiletAsTable.stages.5.label>
+  <RDE_ToiletAsTable.stages.5.description>У всех появилось постоянное место для еды. В моём есть смыв... Хватит смеяться.</RDE_ToiletAsTable.stages.5.description>
+  <RDE_ToiletAsTable.stages.6.label>не называйте это троном</RDE_ToiletAsTable.stages.6.label>
+  <RDE_ToiletAsTable.stages.6.description>Еда на унитазе. Говорят, королевский пир. Уши горят, но мне совсем не смешно.</RDE_ToiletAsTable.stages.6.description>
+  <RDE_ToiletAsTable.stages.7.label>эта шутка не смешная</RDE_ToiletAsTable.stages.7.label>
+  <RDE_ToiletAsTable.stages.7.description>Снова это сиденье. Берегу хвост и смотрю на дверь: вдруг кто-нибудь войдёт.</RDE_ToiletAsTable.stages.7.description>
+  <RDE_ToiletAsTable.stages.8.label>не давайте столовой имя</RDE_ToiletAsTable.stages.8.label>
+  <RDE_ToiletAsTable.stages.8.description>Да, теперь я ем здесь. Нет, придумывать имя моей туалетной столовой нельзя.</RDE_ToiletAsTable.stages.8.description>
+  <RDE_ToiletAsTable.stages.9.label>достоинство не подают на фарфоре</RDE_ToiletAsTable.stages.9.label>
+  <RDE_ToiletAsTable.stages.9.description>Еда, унитаз и я, изо всех сил делая вид, что эти три вещи сочетаются.</RDE_ToiletAsTable.stages.9.description>
+  <RDE_ToiletAsTable.stages.10.label>кто заказал этот столик</RDE_ToiletAsTable.stages.10.label>
+  <RDE_ToiletAsTable.stages.10.description>Опять место у унитаза. Похоже, в мой заказ входят канализация и зрители.</RDE_ToiletAsTable.stages.10.description>
+  <RDE_ToiletAsTable.stages.11.label>фирменное блюдо — смирение</RDE_ToiletAsTable.stages.11.label>
+  <RDE_ToiletAsTable.stages.11.description>Одна трапеза за другой. Уже знаю, куда положить хвост. Но этому навыку учиться не хотелось.</RDE_ToiletAsTable.stages.11.description>
+  <RDE_SpecialSeatAsTable.stages.0.label>странное место для еды</RDE_SpecialSeatAsTable.stages.0.label>
+  <RDE_SpecialSeatAsTable.stages.0.description>Меня посадили на странное сиденье с едой. Хвостик свернуть. Можно туда, где привычно?</RDE_SpecialSeatAsTable.stages.0.description>
+  <RDE_SpecialSeatAsTable.stages.1.label>снова странный стульчик</RDE_SpecialSeatAsTable.stages.1.label>
+  <RDE_SpecialSeatAsTable.stages.1.description>Опять это сиденье... Прижимаю еду и ищу того, кто меня сюда посадил.</RDE_SpecialSeatAsTable.stages.1.description>
+  <RDE_SpecialSeatAsTable.stages.2.label>лапки всё ещё просят обнять</RDE_SpecialSeatAsTable.stages.2.label>
+  <RDE_SpecialSeatAsTable.stages.2.description>Опять обед здесь. Животик полный, но лапки тянутся: пусть кто-нибудь снимет меня отсюда.</RDE_SpecialSeatAsTable.stages.2.description>
+  <RDE_SpecialSeatAsTable.stages.3.label>у него другая работа</RDE_SpecialSeatAsTable.stages.3.label>
+  <RDE_SpecialSeatAsTable.stages.3.description>Говорят, где можно сидеть, там можно есть. Но эта штука явно нужна для другого.</RDE_SpecialSeatAsTable.stages.3.description>
+  <RDE_SpecialSeatAsTable.stages.4.label>чужое сиденье, тревожный обед</RDE_SpecialSeatAsTable.stages.4.label>
+  <RDE_SpecialSeatAsTable.stages.4.description>Снова еда здесь. Всё кажется, что кто-нибудь придёт воспользоваться этой вещью.</RDE_SpecialSeatAsTable.stages.4.description>
+  <RDE_SpecialSeatAsTable.stages.5.label>столовая на странном сиденье</RDE_SpecialSeatAsTable.stages.5.label>
+  <RDE_SpecialSeatAsTable.stages.5.description>Сиденье с другим назначением стало моим местом для еды. Никто не спросил, хочу ли я этого.</RDE_SpecialSeatAsTable.stages.5.description>
+  <RDE_SpecialSeatAsTable.stages.6.label>не смотрите, как я ем</RDE_SpecialSeatAsTable.stages.6.label>
+  <RDE_SpecialSeatAsTable.stages.6.description>Обед на таком сиденье. Уже слышу будущие шуточки. Дайте спокойно доесть.</RDE_SpecialSeatAsTable.stages.6.description>
+  <RDE_SpecialSeatAsTable.stages.7.label>подработка сиденья — мой позор</RDE_SpecialSeatAsTable.stages.7.label>
+  <RDE_SpecialSeatAsTable.stages.7.description>Ещё одна трапеза. Сначала сиденье делает свою работу, потом заступает на смену унижать меня.</RDE_SpecialSeatAsTable.stages.7.description>
+  <RDE_SpecialSeatAsTable.stages.8.label>шутка стала постоянным местом</RDE_SpecialSeatAsTable.stages.8.label>
+  <RDE_SpecialSeatAsTable.stages.8.description>Столько обедов здесь, что все сразу указывают сюда. Уши каждый раз опускаются.</RDE_SpecialSeatAsTable.stages.8.description>
+  <RDE_SpecialSeatAsTable.stages.9.label>сиденье не на своей работе</RDE_SpecialSeatAsTable.stages.9.label>
+  <RDE_SpecialSeatAsTable.stages.9.description>Обед на мебели для другого дела. Практичное решение, если не учитывать моё достоинство.</RDE_SpecialSeatAsTable.stages.9.description>
+  <RDE_SpecialSeatAsTable.stages.10.label>временное место стало обычным</RDE_SpecialSeatAsTable.stages.10.label>
+  <RDE_SpecialSeatAsTable.stages.10.description>Снова обед здесь. Расстановка всё постояннее, а возражения всё тише.</RDE_SpecialSeatAsTable.stages.10.description>
+  <RDE_SpecialSeatAsTable.stages.11.label>назначено странное место</RDE_SpecialSeatAsTable.stages.11.label>
+  <RDE_SpecialSeatAsTable.stages.11.description>Похоже, теперь я ем здесь. Лучше доесть и уйти, пока не прозвучала очередная насмешка.</RDE_SpecialSeatAsTable.stages.11.description>
+</LanguageData>

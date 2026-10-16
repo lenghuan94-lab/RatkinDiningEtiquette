@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net472</TargetFramework>
+    <EnableDefaultCompileItems>false</EnableDefaultCompileItems>
+    <RimWorldDir Condition="'$(RimWorldDir)' == ''">D:\SteamLibrary\steamapps\common\RimWorld</RimWorldDir>
+    <HarmonyDir Condition="'$(HarmonyDir)' == '' and Exists('D:\SteamLibrary\steamapps\workshop\content\294100\2009463077\1.6\Assemblies\0Harmony.dll')">D:\SteamLibrary\steamapps\workshop\content\294100\2009463077\1.6\Assemblies</HarmonyDir>
+    <HarmonyDir Condition="'$(HarmonyDir)' == ''">D:\SteamLibrary\steamapps\workshop\content\294100\2009463077\Current\Assemblies</HarmonyDir>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="IconHookTests.cs" />
+    <Compile Include="../Source/Compatibility/ModConfigIconPatch.cs" Link="Production/ModConfigIconPatch.cs" />
+    <Reference Include="Assembly-CSharp"><HintPath>$(RimWorldManagedDir)\Assembly-CSharp.dll</HintPath></Reference>
+    <Reference Include="UnityEngine.CoreModule"><HintPath>$(RimWorldManagedDir)\UnityEngine.CoreModule.dll</HintPath></Reference>
+    <Reference Include="UnityEngine.IMGUIModule"><HintPath>$(RimWorldManagedDir)\UnityEngine.IMGUIModule.dll</HintPath></Reference>
+    <Reference Include="0Harmony"><HintPath>$(HarmonyDir)\0Harmony.dll</HintPath></Reference>
+  </ItemGroup>
+</Project>

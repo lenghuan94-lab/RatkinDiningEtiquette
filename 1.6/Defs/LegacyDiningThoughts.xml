@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <!--Save-load identifiers only. No new memories; removed by PostLoadInit.-->
+  <ThoughtDef>
+    <defName>RDE_ToddlerAteOnChair</defName>
+    <thoughtClass>Thought_Memory</thoughtClass>
+    <durationDays>0.00001</durationDays>
+    <stackLimit>1</stackLimit>
+    <developmentalStageFilter>Baby, Child, Adult</developmentalStageFilter>
+    <stages>
+      <li>
+        <label>retired dining memory</label>
+        <description>This previous-version memory is retired on load.</description>
+        <baseMoodEffect>0</baseMoodEffect>
+      </li>
+      <li>
+        <label>retired dining memory</label>
+        <description>This previous-version memory is retired on load.</description>
+        <baseMoodEffect>0</baseMoodEffect>
+      </li>
+    </stages>
+  </ThoughtDef>
+  <ThoughtDef>
+    <defName>RDE_RatkinDiningSet</defName>
+    <thoughtClass>Thought_Memory</thoughtClass>
+    <durationDays>0.00001</durationDays>
+    <stackLimit>1</stackLimit>
+    <developmentalStageFilter>Baby, Child, Adult</developmentalStageFilter>
+    <stages>
+      <li>
+        <label>retired dining memory</label>
+        <description>This previous-version memory is retired on load.</description>
+        <baseMoodEffect>0</baseMoodEffect>
+      </li>
+      <li>
+        <label>retired dining memory</label>
+        <description>This previous-version memory is retired on load.</description>
+        <baseMoodEffect>0</baseMoodEffect>
+      </li>
+    </stages>
+  </ThoughtDef>
+  <ThoughtDef>
+    <defName>RDE_RatkinTableMixedChair</defName>
+    <thoughtClass>Thought_Memory</thoughtClass>
+    <durationDays>0.00001</durationDays>
+    <stackLimit>1</stackLimit>
+    <developmentalStageFilter>Baby, Child, Adult</developmentalStageFilter>
+    <stages>
+      <li>
+        <label>retired dining memory</label>
+        <description>This previous-version memory is retired on load.</description>
+        <baseMoodEffect>0</baseMoodEffect>
+      </li>
+      <li>
+        <label>retired dining memory</label>
+        <description>This previous-version memory is retired on load.</description>
+        <baseMoodEffect>0</baseMoodEffect>
+      </li>
+    </stages>
+  </ThoughtDef>
+  <ThoughtDef>
+    <defName>RDE_RatkinTableWithoutChair</defName>
+    <thoughtClass>Thought_Memory</thoughtClass>
+    <durationDays>0.00001</durationDays>
+    <stackLimit>1</stackLimit>
+    <developmentalStageFilter>Baby, Child, Adult</developmentalStageFilter>
+    <stages>
+      <li>
+        <label>retired dining memory</label>
+        <description>This previous-version memory is retired on load.</description>
+        <baseMoodEffect>0</baseMoodEffect>
+      </li>
+      <li>
+        <label>retired dining memory</label>
+        <description>This previous-version memory is retired on load.</description>
+        <baseMoodEffect>0</baseMoodEffect>
+      </li>
+    </stages>
+  </ThoughtDef>
+  <ThoughtDef>
+    <defName>RDE_RatkinChairHighTable</defName>
+    <thoughtClass>Thought_Memory</thoughtClass>
+    <durationDays>0.00001</durationDays>
+    <stackLimit>1</stackLimit>
+    <developmentalStageFilter>Baby, Child, Adult</developmentalStageFilter>
+    <stages>
+      <li>
+        <label>retired dining memory</label>
+        <description>This previous-version memory is retired on load.</description>
+        <baseMoodEffect>0</baseMoodEffect>
+      </li>
+      <li>
+        <label>retired dining memory</label>
+        <description>This previous-version memory is retired on load.</description>
+        <baseMoodEffect>0</baseMoodEffect>
+      </li>
+    </stages>
+  </ThoughtDef>
+  <ThoughtDef>
+    <defName>RDE_OrdinaryDiningSet</defName>
+    <thoughtClass>Thought_Memory</thoughtClass>
+    <durationDays>0.00001</durationDays>
+    <stackLimit>1</stackLimit>
+    <developmentalStageFilter>Baby, Child, Adult</developmentalStageFilter>
+    <stages>
+      <li>
+        <label>retired dining memory</label>
+        <description>This previous-version memory is retired on load.</description>
+        <baseMoodEffect>0</baseMoodEffect>
+      </li>
+      <li>
+        <label>retired dining memory</label>
+        <description>This previous-version memory is retired on load.</description>
+        <baseMoodEffect>0</baseMoodEffect>
+      </li>
+    </stages>
+  </ThoughtDef>
+  <ThoughtDef>
+    <defName>RDE_OrdinaryTableWithoutChair</defName>
+    <thoughtClass>Thought_Memory</thoughtClass>
+    <durationDays>0.00001</durationDays>
+    <stackLimit>1</stackLimit>
+    <developmentalStageFilter>Baby, Child, Adult</developmentalStageFilter>
+    <stages>
+      <li>
+        <label>retired dining memory</label>
+        <description>This previous-version memory is retired on load.</description>
+        <baseMoodEffect>0</baseMoodEffect>
+      </li>
+      <li>
+        <label>retired dining memory</label>
+        <description>This previous-version memory is retired on load.</description>
+        <baseMoodEffect>0</baseMoodEffect>
+      </li>
+    </stages>
+  </ThoughtDef>
+</Defs>

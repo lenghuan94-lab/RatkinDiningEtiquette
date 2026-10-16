@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>这才是你的桌子！！</name>
+  <author>lenghuan</author>
+  <packageId>lenghuan.ratkindiningetiquette</packageId>
+  <modVersion>1.2.1</modVersion>
+  <supportedVersions>
+    <li>1.6</li>
+    <li>1.7</li>
+  </supportedVersions>
+  <modDependencies>
+    <li>
+      <packageId>brrainz.harmony</packageId>
+      <displayName>Harmony</displayName>
+      <steamWorkshopUrl>steam://url/CommunityFilePage/2009463077</steamWorkshopUrl>
+    </li>
+    <li>
+      <packageId>Ludeon.RimWorld.Biotech</packageId>
+      <displayName>Biotech</displayName>
+    </li>
+    <li>
+      <packageId>erdelf.HumanoidAlienRaces</packageId>
+      <displayName>Humanoid Alien Races</displayName>
+      <steamWorkshopUrl>steam://url/CommunityFilePage/839005762</steamWorkshopUrl>
+    </li>
+    <li>
+      <packageId>Solaris.RatkinRaceMod</packageId>
+      <displayName>NewRatkinPlus</displayName>
+      <steamWorkshopUrl>steam://url/CommunityFilePage/1578693166</steamWorkshopUrl>
+    </li>
+    <li>
+      <packageId>cyanobot.toddlers</packageId>
+      <displayName>Toddlers</displayName>
+      <steamWorkshopUrl>steam://url/CommunityFilePage/2903359152</steamWorkshopUrl>
+    </li>
+  </modDependencies>
+  <loadAfter>
+    <li>Dubwise.DubsBadHygiene</li>
+    <li>Dubwise.DubsBadHygieneLite</li>
+    <li>brrainz.harmony</li>
+    <li>Ludeon.RimWorld.Biotech</li>
+    <li>erdelf.HumanoidAlienRaces</li>
+    <li>Solaris.RatkinRaceMod</li>
+    <li>cyanobot.toddlers</li>
+    <li>lenghuan.ratkintablemanners</li>
+  </loadAfter>
+  <description>这才是你的桌子！！ / This Is Your Table!!
+
+RimWorld 1.6 · 版本 1.2.1
+
+小小的鼠族，把独立椅子当成自己的饭桌。普通椅子与鼠族椅子有不同的进食评价；会自己吃饭的鼠蛋，还可以拿着饭求抱上座位，或由护理者取饭并抱上去自主进食。
+
+【马桶及其他特殊座位】保留这种奇妙的用餐方式，并按吃饭鼠族的身份分别设置。默认仅囚犯、奴隶开启，殖民者、访客关闭；同样适用于鼠蛋。普通椅子优先，旁边已有餐桌的座位不属于本模组的独立座位玩法。可选联动 Dubs Bad Hygiene 的马桶和旱厕，不需要额外安装卫生模组才能使用普通椅子功能。
+
+马桶用餐有专属心情，其他特殊座位也有独立评价。冷冰冰的饭点、尴尬的围观、一次又一次的固定席，让鼠鼠的委屈与认命有了自己的文字。
+
+【实验性玩法：鼠蛋求抱上椅子】求抱按殖民者、访客、囚犯、奴隶分别设置，默认仅殖民者开启，其余三类默认关闭。鼠蛋使用特殊座位时，还需要开启对应身份的求抱选项。殖民者和奴隶由启用育儿的护理者帮助，囚犯由狱卒帮助；访客仅由自己阵营护理者帮助。仍需满足自主进食、距离、亲属、可达性和安全条件，不保证每餐触发。
+
+若想展示鼠蛋自己取饭求抱的流程，请手动关闭 Toddlers 的“允许喂食能自主吃饭的婴儿” / Pawns feed toddlers who could feed themselves。不会自主吃饭的婴儿和紧急护理仍正常喂养。
+
+RimWorld 1.6 · Version 1.2.1
+
+Small Ratkin turn lone chairs into dinner tables. Ordinary and Ratkin chairs have different dining memories. Toddlers who can feed themselves may bring food and ask to be lifted onto a seat, or a caregiver may fetch their meal and help them up.
+
+Toilets and other special seats have separate permissions for colonists, visitors, prisoners and slaves. Only prisoners and slaves are enabled by default; these permissions also apply to toddlers. Normal chairs are preferred. Seats next to a dining table remain outside this mod's lone-seat feature. Optional Dubs Bad Hygiene integration supports its toilets and latrines; hygiene mods are not required for normal chair dining.
+
+Toilet meals have their own memories, and other special seats have separate memories too. A cold dinner spot, unwanted spectators and a familiar seat nobody asked for give Ratkin their own words for embarrassment and resignation.
+
+Experimental toddler assistance has separate identity settings. Only colonists are enabled by default; visitors, prisoners and slaves are off by default. Toddler special-seat meals also require the corresponding assistance option. Colonists and slaves need caregivers with active Childcare work, prisoners need wardens, and visitors may only be helped by caregivers of their own faction. Self-feeding ability, distance, relationship, reachability and safety conditions still apply; this may not happen at every meal.
+
+To experience toddlers fetching food and asking for a lift, manually disable Toddlers: "Pawns feed toddlers who could feed themselves". Babies who cannot feed themselves and urgent care retain normal feeding.</description>
+</ModMetaData>

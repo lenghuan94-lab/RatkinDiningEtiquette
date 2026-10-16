@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <RDE_SettingsTitle>これが君のテーブルだ！！</RDE_SettingsTitle>
+  <RDE_EnableChairTable>幼児以外のラトキンが椅子を低い食卓として使う</RDE_EnableChairTable>
+  <RDE_EnableToddlerHelp>実験的な遊び：ラトキンの赤ちゃんを椅子に抱き上げる</RDE_EnableToddlerHelp>
+  <RDE_EnableToddlerHelpTooltip>初期設定では入植者の赤ちゃんへの支援のみ有効です。訪問者・囚人・奴隷は初期設定で無効で、個別に有効にできます。自分で食べられるラトキンの赤ちゃんは、ごはんを持ってきて、単独の椅子に抱き上げてほしいと頼めます。世話役が先に食事を用意して椅子で食べさせることもできます。入植者と奴隷の赤ちゃんは育児の仕事が有効な世話役、囚人の赤ちゃんは看守が助けます。訪問者の赤ちゃんを助けられるのは同じ派閥の世話役だけです。距離・親族関係・安全の条件も必要です。毎食発生するとは限りません。無効にすると進行中のお願いを安全に終了し、予約を解除して食事を続けられるようにします。
+
+赤ちゃんが自分でごはんを持ってきて抱っこを頼む様子を見るには、Toddlers の「Pawns feed toddlers who could feed themselves」を手動で無効にしてください。自分で食べられない赤ちゃんや緊急の世話には、通常の食事介助が使われます。</RDE_EnableToddlerHelpTooltip>
+  <RDE_ToddlerHelpColonists>入植者の赤ちゃんの抱っこ支援</RDE_ToddlerHelpColonists>
+  <RDE_ToddlerHelpVisitors>訪問者の赤ちゃんの抱っこ支援</RDE_ToddlerHelpVisitors>
+  <RDE_ToddlerHelpPrisoners>囚人の赤ちゃんの抱っこ支援</RDE_ToddlerHelpPrisoners>
+  <RDE_ToddlerHelpSlaves>奴隷の赤ちゃんの抱っこ支援</RDE_ToddlerHelpSlaves>
+  <RDE_ChairRadius>椅子を探す範囲：{0}</RDE_ChairRadius>
+  <RDE_HelperRadius>助ける人を探す範囲：{0}</RDE_HelperRadius>
+  <RDE_NormalWait>通常時の待ち時間：{0}秒</RDE_NormalWait>
+  <RDE_HungryWait>空腹時の待ち時間：{0}秒</RDE_HungryWait>
+  <RDE_CriticalFood>食料欲求が{0}%未満なら、すぐに通常の食事へ切り替える</RDE_CriticalFood>
+  <RDE_AllowNonParents>親以外の人も手伝える</RDE_AllowNonParents>
+  <RDE_ShowMote>お願いの吹き出しを表示</RDE_ShowMote>
+  <RDE_Debug>デバッグログを記録</RDE_Debug>
+  <RDE_ManualAssist>ラトキンの赤ちゃんを椅子に抱き上げて食事を手伝う</RDE_ManualAssist>
+  <RDE_RequestMote_Low>Mabba... goo? Hup-hup!</RDE_RequestMote_Low>
+  <RDE_RequestMote_Medium>Mabba... だっこ！ごはん、hup-hup!</RDE_RequestMote_Medium>
+  <RDE_RequestMote_High>椅子にだっこして！ごはん食べたいの！</RDE_RequestMote_High>
+  <RDE_BabyTalk_OrdinaryChair_0>Hup... mee? Nyaa!</RDE_BabyTalk_OrdinaryChair_0>
+  <RDE_BabyTalk_OrdinaryChair_1>Mee-yaa, nom-nom... hee!</RDE_BabyTalk_OrdinaryChair_1>
+  <RDE_BabyTalk_OrdinaryChair_2>Nyaa-mee! Nomma, nomma... yaa-hee!</RDE_BabyTalk_OrdinaryChair_2>
+  <RDE_BabyTalk_RatkinChair_0>Goo... nom? Mmm!</RDE_BabyTalk_RatkinChair_0>
+  <RDE_BabyTalk_RatkinChair_1>Gooma-bba, nomma... hee-hee!</RDE_BabyTalk_RatkinChair_1>
+  <RDE_BabyTalk_RatkinChair_2>Mabba-doobie! Nom-nom... nyaa-hee!</RDE_BabyTalk_RatkinChair_2>
+  <RDE_BabyTalk_NoHelp_0>Mabba... hup?</RDE_BabyTalk_NoHelp_0>
+  <RDE_BabyTalk_NoHelp_1>Huppa, huppa... mee-eh?</RDE_BabyTalk_NoHelp_1>
+  <RDE_BabyTalk_NoHelp_2>Maaa-wuh! Hup-ba, mee-yaa... waaah!</RDE_BabyTalk_NoHelp_2>
+  <RDE_SpecialSeats>トイレなどの特殊な席での食事</RDE_SpecialSeats>
+  <RDE_SpecialSeatsTooltip>食べるラットキンの身分ごとに、特殊な席を独立した椅子として使えるか設定します。幼児にも適用。初期設定は囚人と奴隷のみ有効、入植者と訪問者は無効。通常の椅子を優先します。幼児には対応する実験的な抱っこ補助設定も必要で、その初期設定は従来どおりです。</RDE_SpecialSeatsTooltip>
+  <RDE_SpecialSeatsColonists>入植者ラットキン：特殊な席で食事</RDE_SpecialSeatsColonists>
+  <RDE_SpecialSeatsVisitors>訪問者ラットキン：特殊な席で食事</RDE_SpecialSeatsVisitors>
+  <RDE_SpecialSeatsPrisoners>囚人ラットキン：特殊な席で食事</RDE_SpecialSeatsPrisoners>
+  <RDE_SpecialSeatsSlaves>奴隷ラットキン：特殊な席で食事</RDE_SpecialSeatsSlaves>
+  <RDE_BabyTalk_Toilet_0>Mabba... eh? Nuu...</RDE_BabyTalk_Toilet_0>
+  <RDE_BabyTalk_Toilet_1>Mee-eh... nom? Hup...</RDE_BabyTalk_Toilet_1>
+  <RDE_BabyTalk_Toilet_2>Waa... hup-ba! Nuu-mee!</RDE_BabyTalk_Toilet_2>
+  <RDE_BabyTalk_SpecialSeat_0>Mee... huh? Mabba...</RDE_BabyTalk_SpecialSeat_0>
+  <RDE_BabyTalk_SpecialSeat_1>Hup... mee-eh? Nom...</RDE_BabyTalk_SpecialSeat_1>
+  <RDE_BabyTalk_SpecialSeat_2>Maaa... hup-hup! Mee-eh!</RDE_BabyTalk_SpecialSeat_2>
+</LanguageData>

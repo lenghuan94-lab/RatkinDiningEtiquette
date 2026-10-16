@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <RDE_SettingsTitle>This Is Your Table!!</RDE_SettingsTitle>
+  <RDE_EnableChairTable>Allow non-toddler Ratkin to use chairs as low tables</RDE_EnableChairTable>
+  <RDE_EnableToddlerHelp>Experimental: lift Ratkin toddlers onto chairs</RDE_EnableToddlerHelp>
+  <RDE_EnableToddlerHelpTooltip>Only colonist toddler assistance is enabled by default. Visitors, prisoners and slaves are off by default and can be enabled separately. Ratkin toddlers who can feed themselves may bring food and ask a caregiver to lift them onto a lone chair to eat. Caregivers may also fetch food and arrange a chair meal. Colonist and slave toddlers need caregivers with active Childcare work; prisoners need wardens; visitors may only be helped by caregivers of their own faction. Distance, relationship and safety checks still apply; this may not happen at every meal. Turning this off safely ends current requests, releases claims and lets toddlers continue eating.
+
+To showcase toddlers fetching food and asking for a lift, manually disable Toddlers: "Pawns feed toddlers who could feed themselves". Babies who cannot feed themselves and urgent care retain normal feeding.</RDE_EnableToddlerHelpTooltip>
+  <RDE_ToddlerHelpColonists>Colonist toddler assistance</RDE_ToddlerHelpColonists>
+  <RDE_ToddlerHelpVisitors>Visitor toddler assistance</RDE_ToddlerHelpVisitors>
+  <RDE_ToddlerHelpPrisoners>Prisoner toddler assistance</RDE_ToddlerHelpPrisoners>
+  <RDE_ToddlerHelpSlaves>Slave toddler assistance</RDE_ToddlerHelpSlaves>
+  <RDE_ChairRadius>Chair search radius: {0}</RDE_ChairRadius>
+  <RDE_HelperRadius>Helper search radius: {0}</RDE_HelperRadius>
+  <RDE_NormalWait>Normal help wait: {0} seconds</RDE_NormalWait>
+  <RDE_HungryWait>Hungry help wait: {0} seconds</RDE_HungryWait>
+  <RDE_CriticalFood>Immediate fallback below {0}% food</RDE_CriticalFood>
+  <RDE_AllowNonParents>Allow non-parents to help</RDE_AllowNonParents>
+  <RDE_ShowMote>Show request mote</RDE_ShowMote>
+  <RDE_Debug>Debug logging</RDE_Debug>
+  <RDE_ManualAssist>Carry Ratkin toddler to a chair to eat</RDE_ManualAssist>
+  <RDE_RequestMote_Low>Mabba... goo? Hup-hup!</RDE_RequestMote_Low>
+  <RDE_RequestMote_Medium>Mabba... up! Dinner, hup-hup!</RDE_RequestMote_Medium>
+  <RDE_RequestMote_High>Lift me onto the chair, please! I want dinner!</RDE_RequestMote_High>
+  <RDE_BabyTalk_OrdinaryChair_0>Hup... mee? Nyaa!</RDE_BabyTalk_OrdinaryChair_0>
+  <RDE_BabyTalk_OrdinaryChair_1>Mee-yaa, nom-nom... hee!</RDE_BabyTalk_OrdinaryChair_1>
+  <RDE_BabyTalk_OrdinaryChair_2>Nyaa-mee! Nomma, nomma... yaa-hee!</RDE_BabyTalk_OrdinaryChair_2>
+  <RDE_BabyTalk_RatkinChair_0>Goo... nom? Mmm!</RDE_BabyTalk_RatkinChair_0>
+  <RDE_BabyTalk_RatkinChair_1>Gooma-bba, nomma... hee-hee!</RDE_BabyTalk_RatkinChair_1>
+  <RDE_BabyTalk_RatkinChair_2>Mabba-doobie! Nom-nom... nyaa-hee!</RDE_BabyTalk_RatkinChair_2>
+  <RDE_BabyTalk_NoHelp_0>Mabba... hup?</RDE_BabyTalk_NoHelp_0>
+  <RDE_BabyTalk_NoHelp_1>Huppa, huppa... mee-eh?</RDE_BabyTalk_NoHelp_1>
+  <RDE_BabyTalk_NoHelp_2>Maaa-wuh! Hup-ba, mee-yaa... waaah!</RDE_BabyTalk_NoHelp_2>
+  <RDE_SpecialSeats>Toilets and other special seats</RDE_SpecialSeats>
+  <RDE_SpecialSeatsTooltip>Allow these seats as lone-chair dining spots by eater identity, including toddlers. Defaults: prisoners and slaves on; colonists and visitors off. Normal chairs are preferred. Toddler meals also require the corresponding experimental help setting; its existing defaults are unchanged.</RDE_SpecialSeatsTooltip>
+  <RDE_SpecialSeatsColonists>Colonist Ratkin: special-seat dining</RDE_SpecialSeatsColonists>
+  <RDE_SpecialSeatsVisitors>Visitor Ratkin: special-seat dining</RDE_SpecialSeatsVisitors>
+  <RDE_SpecialSeatsPrisoners>Prisoner Ratkin: special-seat dining</RDE_SpecialSeatsPrisoners>
+  <RDE_SpecialSeatsSlaves>Slave Ratkin: special-seat dining</RDE_SpecialSeatsSlaves>
+  <RDE_BabyTalk_Toilet_0>Mabba... eh? Nuu...</RDE_BabyTalk_Toilet_0>
+  <RDE_BabyTalk_Toilet_1>Mee-eh... nom? Hup...</RDE_BabyTalk_Toilet_1>
+  <RDE_BabyTalk_Toilet_2>Waa... hup-ba! Nuu-mee!</RDE_BabyTalk_Toilet_2>
+  <RDE_BabyTalk_SpecialSeat_0>Mee... huh? Mabba...</RDE_BabyTalk_SpecialSeat_0>
+  <RDE_BabyTalk_SpecialSeat_1>Hup... mee-eh? Nom...</RDE_BabyTalk_SpecialSeat_1>
+  <RDE_BabyTalk_SpecialSeat_2>Maaa... hup-hup! Mee-eh!</RDE_BabyTalk_SpecialSeat_2>
+</LanguageData>

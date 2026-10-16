@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <RDE_EatUsingChairAsTable.reportString>의자를 식탁으로 삼아 먹는 중.</RDE_EatUsingChairAsTable.reportString>
+  <RDE_ToddlerPrepareDiningRequest.reportString>음식을 의자 옆으로 가져가는 중.</RDE_ToddlerPrepareDiningRequest.reportString>
+  <RDE_ToddlerWaitForDiningHelp.reportString>의자에 안아 올려 주기를 기다리는 중.</RDE_ToddlerWaitForDiningHelp.reportString>
+  <RDE_AssistRatToddlerDining.reportString>TargetA를 의자에 안아 올리는 중.</RDE_AssistRatToddlerDining.reportString>
+  <RDE_ToddlerEatAtChair.reportString>의자에서 맘마 먹는 중.</RDE_ToddlerEatAtChair.reportString>
+  <RDE_ToddlerEatHeldFoodOnFloor.reportString>손에 든 음식을 바닥에서 먹는 중.</RDE_ToddlerEatHeldFoodOnFloor.reportString>
+  <RDE_ProvideRatToddlerDiningMeal.reportString>음식을 가져와 TargetA를 의자에 안아 올리는 중.</RDE_ProvideRatToddlerDiningMeal.reportString>
+  <RDE_ToddlerWaitForMeal.reportString>맘마와 안아 주기를 기다리는 중.</RDE_ToddlerWaitForMeal.reportString>
+  <RDE_ReturnDiningChild.reportString>TargetA를 안전한 곳으로 안아 옮기는 중.</RDE_ReturnDiningChild.reportString>
+</LanguageData>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <RDE_SettingsTitle>这才是你的桌子！！</RDE_SettingsTitle>
+  <RDE_EnableChairTable>允许非幼儿鼠族把椅子当矮桌</RDE_EnableChairTable>
+  <RDE_EnableToddlerHelp>实验性玩法：鼠蛋求抱上椅子</RDE_EnableToddlerHelp>
+  <RDE_EnableToddlerHelpTooltip>默认仅开启殖民者鼠蛋求抱；访客、囚犯、奴隶默认关闭，可分别开启。已会自主吃饭的鼠蛋可以拿饭求抱，由护理者抱到孤立椅子上自己吃；护理者也可以主动取饭并安排鼠蛋上椅子。殖民者和奴隶鼠蛋由启用育儿的护理者帮助，囚犯鼠蛋由狱卒帮助，访客鼠蛋仅由自己阵营的护理者帮助；仍需满足距离、亲属和安全条件，不能保证每餐触发。关闭后，当前求助会安全结束、释放占用并继续进食。
+
+若想展示鼠蛋自己取饭求抱的流程，请手动关闭 Toddlers 的“允许喂食能自主吃饭的婴儿”。不会自主吃饭的婴儿和紧急护理仍正常喂养。</RDE_EnableToddlerHelpTooltip>
+  <RDE_ToddlerHelpColonists>殖民者鼠蛋求抱</RDE_ToddlerHelpColonists>
+  <RDE_ToddlerHelpVisitors>访客鼠蛋求抱</RDE_ToddlerHelpVisitors>
+  <RDE_ToddlerHelpPrisoners>囚犯鼠蛋求抱</RDE_ToddlerHelpPrisoners>
+  <RDE_ToddlerHelpSlaves>奴隶鼠蛋求抱</RDE_ToddlerHelpSlaves>
+  <RDE_ChairRadius>椅子搜索半径：{0}</RDE_ChairRadius>
+  <RDE_HelperRadius>帮助者搜索半径：{0}</RDE_HelperRadius>
+  <RDE_NormalWait>正常求助等待：{0} 秒</RDE_NormalWait>
+  <RDE_HungryWait>饥饿求助等待：{0} 秒</RDE_HungryWait>
+  <RDE_CriticalFood>食物需求低于 {0}% 时立即回退</RDE_CriticalFood>
+  <RDE_AllowNonParents>允许非父母帮助</RDE_AllowNonParents>
+  <RDE_ShowMote>显示求助提示</RDE_ShowMote>
+  <RDE_Debug>调试日志</RDE_Debug>
+  <RDE_ManualAssist>抱鼠蛋到椅子上吃饭</RDE_ManualAssist>
+  <RDE_RequestMote_Low>Mabba... goo? Hup-hup!</RDE_RequestMote_Low>
+  <RDE_RequestMote_Medium>Mabba... 抱抱！饭饭，hup-hup!</RDE_RequestMote_Medium>
+  <RDE_RequestMote_High>抱我上椅子嘛！我要吃饭饭！</RDE_RequestMote_High>
+  <RDE_BabyTalk_OrdinaryChair_0>Hup... mee? Nyaa!</RDE_BabyTalk_OrdinaryChair_0>
+  <RDE_BabyTalk_OrdinaryChair_1>Mee-yaa, nom-nom... hee!</RDE_BabyTalk_OrdinaryChair_1>
+  <RDE_BabyTalk_OrdinaryChair_2>Nyaa-mee! Nomma, nomma... yaa-hee!</RDE_BabyTalk_OrdinaryChair_2>
+  <RDE_BabyTalk_RatkinChair_0>Goo... nom? Mmm!</RDE_BabyTalk_RatkinChair_0>
+  <RDE_BabyTalk_RatkinChair_1>Gooma-bba, nomma... hee-hee!</RDE_BabyTalk_RatkinChair_1>
+  <RDE_BabyTalk_RatkinChair_2>Mabba-doobie! Nom-nom... nyaa-hee!</RDE_BabyTalk_RatkinChair_2>
+  <RDE_BabyTalk_NoHelp_0>Mabba... hup?</RDE_BabyTalk_NoHelp_0>
+  <RDE_BabyTalk_NoHelp_1>Huppa, huppa... mee-eh?</RDE_BabyTalk_NoHelp_1>
+  <RDE_BabyTalk_NoHelp_2>Maaa-wuh! Hup-ba, mee-yaa... waaah!</RDE_BabyTalk_NoHelp_2>
+  <RDE_SpecialSeats>马桶及其他特殊座位进食</RDE_SpecialSeats>
+  <RDE_SpecialSeatsTooltip>按吃饭鼠族的身份决定能否把这些座位当独立椅子使用，同样适用于鼠蛋。默认仅囚犯、奴隶开启，殖民者、访客关闭；优先选择普通椅子。鼠蛋还需开启对应身份的实验性求抱设置，该设置原有默认值不变。</RDE_SpecialSeatsTooltip>
+  <RDE_SpecialSeatsColonists>殖民者鼠族：允许特殊座位进食</RDE_SpecialSeatsColonists>
+  <RDE_SpecialSeatsVisitors>访客鼠族：允许特殊座位进食</RDE_SpecialSeatsVisitors>
+  <RDE_SpecialSeatsPrisoners>囚犯鼠族：允许特殊座位进食</RDE_SpecialSeatsPrisoners>
+  <RDE_SpecialSeatsSlaves>奴隶鼠族：允许特殊座位进食</RDE_SpecialSeatsSlaves>
+  <RDE_BabyTalk_Toilet_0>Mabba... eh? Nuu...</RDE_BabyTalk_Toilet_0>
+  <RDE_BabyTalk_Toilet_1>Mee-eh... nom? Hup...</RDE_BabyTalk_Toilet_1>
+  <RDE_BabyTalk_Toilet_2>Waa... hup-ba! Nuu-mee!</RDE_BabyTalk_Toilet_2>
+  <RDE_BabyTalk_SpecialSeat_0>Mee... huh? Mabba...</RDE_BabyTalk_SpecialSeat_0>
+  <RDE_BabyTalk_SpecialSeat_1>Hup... mee-eh? Nom...</RDE_BabyTalk_SpecialSeat_1>
+  <RDE_BabyTalk_SpecialSeat_2>Maaa... hup-hup! Mee-eh!</RDE_BabyTalk_SpecialSeat_2>
+</LanguageData>

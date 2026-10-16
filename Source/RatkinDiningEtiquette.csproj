@@ -1,0 +1,29 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>net472</TargetFramework>
+    <LangVersion>7.3</LangVersion>
+    <Nullable>disable</Nullable>
+    <AssemblyName>RatkinDiningEtiquette</AssemblyName>
+    <RootNamespace>RatkinDiningEtiquette</RootNamespace>
+    <GenerateAssemblyInfo>true</GenerateAssemblyInfo>
+    <EnableDefaultCompileItems>false</EnableDefaultCompileItems>
+    <Version>1.2.1</Version>
+    <OutputPath>..\1.6\Assemblies\</OutputPath>
+    <AppendTargetFrameworkToOutputPath>false</AppendTargetFrameworkToOutputPath>
+    <DebugType>none</DebugType>
+    <RimWorldDir Condition="'$(RimWorldDir)' == ''">D:\SteamLibrary\steamapps\common\RimWorld</RimWorldDir>
+    <WorkshopRoot Condition="'$(WorkshopRoot)' == ''">D:\SteamLibrary\steamapps\workshop\content\294100</WorkshopRoot>
+    <RimWorldManagedDir Condition="'$(RimWorldManagedDir)' == '' and Exists('$(RimWorldDir)\RimWorldWin64_Data\Managed\Assembly-CSharp.dll')">$(RimWorldDir)\RimWorldWin64_Data\Managed</RimWorldManagedDir>
+    <RimWorldManagedDir Condition="'$(RimWorldManagedDir)' == ''">$(MSBuildProjectDirectory)\..\.tools\dining-audit-2026-10-03\bin\Release\net472</RimWorldManagedDir>
+    <HarmonyAssemblyPath Condition="'$(HarmonyAssemblyPath)' == '' and Exists('$(WorkshopRoot)\2009463077\1.6\Assemblies\0Harmony.dll')">$(WorkshopRoot)\2009463077\1.6\Assemblies\0Harmony.dll</HarmonyAssemblyPath>
+    <HarmonyAssemblyPath Condition="'$(HarmonyAssemblyPath)' == ''">$(WorkshopRoot)\2009463077\Current\Assemblies\0Harmony.dll</HarmonyAssemblyPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="**/*.cs" Exclude="obj/**;bin/**" />
+    <Reference Include="Assembly-CSharp"><HintPath>$(RimWorldManagedDir)\Assembly-CSharp.dll</HintPath><Private>false</Private></Reference>
+    <Reference Include="UnityEngine.CoreModule"><HintPath>$(RimWorldManagedDir)\UnityEngine.CoreModule.dll</HintPath><Private>false</Private></Reference>
+    <Reference Include="UnityEngine.IMGUIModule"><HintPath>$(RimWorldManagedDir)\UnityEngine.IMGUIModule.dll</HintPath><Private>false</Private></Reference>
+    <Reference Include="0Harmony"><HintPath>$(HarmonyAssemblyPath)</HintPath><Private>false</Private></Reference>
+    <Reference Include="Toddlers"><HintPath>$(WorkshopRoot)\2903359152\1.6\Assemblies\Toddlers.dll</HintPath><Private>false</Private></Reference>
+  </ItemGroup>
+</Project>

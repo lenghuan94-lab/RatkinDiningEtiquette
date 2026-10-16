@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <RDE_AssistRatToddlerDining.label>랫킨 아기의 식사 돕기</RDE_AssistRatToddlerDining.label>
+  <RDE_AssistRatToddlerDining.verb>돕기</RDE_AssistRatToddlerDining.verb>
+  <RDE_AssistRatToddlerDining.gerund>돕는 중</RDE_AssistRatToddlerDining.gerund>
+  <RDE_WardenAssistRatToddlerDining.label>포로 랫킨 아기의 식사 돕기</RDE_WardenAssistRatToddlerDining.label>
+  <RDE_WardenAssistRatToddlerDining.verb>돕기</RDE_WardenAssistRatToddlerDining.verb>
+  <RDE_WardenAssistRatToddlerDining.gerund>돕는 중</RDE_WardenAssistRatToddlerDining.gerund>
+</LanguageData>

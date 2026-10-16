@@ -1,0 +1,7 @@
+<Project>
+  <Import Project="RegressionTests.csproj" />
+  <PropertyGroup>
+    <StartupObject>ToddlerInterruptionProbe</StartupObject>
+  </PropertyGroup>
+  <ItemGroup><Compile Include="ToddlerInterruptionProbe.cs" /></ItemGroup>
+</Project>

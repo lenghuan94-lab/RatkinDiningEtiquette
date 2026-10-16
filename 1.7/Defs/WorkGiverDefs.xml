@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <WorkGiverDef>
+    <defName>RDE_AssistRatToddlerDining</defName>
+    <label>help Ratkin toddler dine</label>
+    <giverClass>RatkinDiningEtiquette.WorkGiver_AssistRatToddlerDining</giverClass>
+    <workType>Childcare</workType>
+    <verb>help</verb><gerund>helping</gerund>
+    <priorityInType>94</priorityInType><scanThings>true</scanThings><scanCells>false</scanCells>
+  </WorkGiverDef>
+  <WorkGiverDef>
+    <defName>RDE_WardenAssistRatToddlerDining</defName>
+    <label>help imprisoned Ratkin toddler dine</label>
+    <giverClass>RatkinDiningEtiquette.WorkGiver_Warden_AssistRatToddlerDining</giverClass>
+    <workType>Warden</workType>
+    <verb>help</verb><gerund>helping</gerund>
+    <priorityInType>94</priorityInType><scanThings>true</scanThings><scanCells>false</scanCells>
+  </WorkGiverDef>
+</Defs>

@@ -1,0 +1,48 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>disable</Nullable>
+    <ImplicitUsings>disable</ImplicitUsings>
+    <EnableDefaultCompileItems>false</EnableDefaultCompileItems>
+    <NoWarn>CS0649;CS0169</NoWarn>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="EngineDoubles.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="ToddlerCategorySettingsTests.cs" />
+    <Compile Include="../Source/RatDiningSettings.cs" Link="Production/RatDiningSettings.cs" />
+    <Compile Include="FurnitureTests.cs" />
+    <Compile Include="SpecialSeatTests.cs" />
+    <Compile Include="RepeatedDiningTests.cs" />
+    <Compile Include="SpeechTests.cs" />
+    <Compile Include="TableMannersCompatibilityTests.cs" />
+    <Compile Include="CustodyAndSafetyTests.cs" />
+    <Compile Include="PrisonerMealSelectionTests.cs" />
+    <Compile Include="VisitorAndSlaveTests.cs" />
+    <Compile Include="CarryRecoveryTests.cs" />
+    <Compile Include="MealFinalizationTests.cs" />
+    <Compile Include="ToddlerCompletionTests.cs" />
+    <None Include="../1.6/Languages/ChineseSimplified/Keyed/RatkinDiningEtiquette.xml" Link="ChineseKeyed.xml" CopyToOutputDirectory="PreserveNewest" />
+    <None Include="../1.6/Languages/English/Keyed/RatkinDiningEtiquette.xml" Link="EnglishKeyed.xml" CopyToOutputDirectory="PreserveNewest" />
+    <None Include="../1.6/Languages/ChineseSimplified/DefInjected/JobDef/JobDefs.xml" Link="ChineseJobDefs.xml" CopyToOutputDirectory="PreserveNewest" />
+    <None Include="../1.6/Languages/ChineseSimplified/DefInjected/ThoughtDef/RatkinDiningEtiquette.xml" Link="ChineseThoughtDefs.xml" CopyToOutputDirectory="PreserveNewest" />
+    <Compile Include="../Source/Requests/*.cs" Link="Production/Requests/%(Filename)%(Extension)" />
+    <Compile Include="../Source/Compatibility/HarmonyPatches.cs" Link="Production/HarmonyPatches.cs" />
+    <Compile Include="../Source/Compatibility/FurniturePatches.cs" Link="Production/FurniturePatches.cs" />
+    <Compile Include="../Source/Dining/RatDiningFurniture.cs" Link="Production/RatDiningFurniture.cs" />
+    <Compile Include="../Source/Dining/RatDiningThoughts.cs" Link="Production/RatDiningThoughts.cs" />
+    <Compile Include="../Source/Dining/RatDiningSpotFinder.cs" Link="Production/RatDiningSpotFinder.cs" />
+    <Compile Include="../Source/Dining/RatDiningModeResolver.cs" Link="Production/RatDiningModeResolver.cs" />
+    <Compile Include="../Source/Dining/RatDiningApi.cs" Link="Production/RatDiningApi.cs" />
+    <Compile Include="../Source/Dining/RatDiningFailureGuard.cs" Link="Production/RatDiningFailureGuard.cs" />
+    <Compile Include="../Source/Dining/RatDiningCustody.cs" Link="Production/RatDiningCustody.cs" />
+    <Compile Include="../Source/Dining/RatDiningSpotSafety.cs" Link="Production/RatDiningSpotSafety.cs" />
+    <Compile Include="../Source/Dining/RatDiningMealSafety.cs" Link="Production/RatDiningMealSafety.cs" />
+    <Compile Include="../Source/AI/RatDiningAI.cs" Link="Production/RatDiningAI.cs" />
+    <Compile Include="../Source/AI/RatVisitorDiningAI.cs" Link="Production/RatVisitorDiningAI.cs" />
+    <Compile Include="../Source/Jobs/*.cs" Link="Production/Jobs/%(Filename)%(Extension)" />
+    <None Include="../1.6/Defs/JobDefs.xml" Link="JobDefs.xml" CopyToOutputDirectory="PreserveNewest" />
+    <None Include="../1.6/Defs/ThoughtDefs.xml" Link="ThoughtDefs.xml" CopyToOutputDirectory="PreserveNewest" />
+  </ItemGroup>
+</Project>

@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <RDE_AssistRatToddlerDining.label>帮助鼠蛋吃饭</RDE_AssistRatToddlerDining.label>
+  <RDE_AssistRatToddlerDining.verb>帮助</RDE_AssistRatToddlerDining.verb>
+  <RDE_AssistRatToddlerDining.gerund>正在帮助</RDE_AssistRatToddlerDining.gerund>
+  <RDE_WardenAssistRatToddlerDining.label>帮助囚犯鼠蛋吃饭</RDE_WardenAssistRatToddlerDining.label>
+  <RDE_WardenAssistRatToddlerDining.verb>帮助</RDE_WardenAssistRatToddlerDining.verb>
+  <RDE_WardenAssistRatToddlerDining.gerund>正在帮助</RDE_WardenAssistRatToddlerDining.gerund>
+</LanguageData>

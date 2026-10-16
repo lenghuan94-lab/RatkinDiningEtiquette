@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <RDE_SettingsTitle>이게 네 식탁이야！！</RDE_SettingsTitle>
+  <RDE_EnableChairTable>유아가 아닌 랫킨이 의자를 낮은 식탁으로 사용하도록 허용</RDE_EnableChairTable>
+  <RDE_EnableToddlerHelp>실험 기능: 랫킨 아기를 의자에 안아 올리기</RDE_EnableToddlerHelp>
+  <RDE_EnableToddlerHelpTooltip>기본적으로 정착민 아기 지원만 켜져 있습니다. 방문객, 죄수, 노예 지원은 기본적으로 꺼져 있으며 각각 켤 수 있습니다. 혼자 먹을 수 있는 랫킨 아기는 음식을 가져와 보호자에게 의자에 안아 올려 달라고 부탁할 수 있습니다. 보호자가 먼저 음식을 가져와 의자에서 먹도록 도울 수도 있습니다. 정착민과 노예 아기는 육아 작업이 활성화된 보호자가, 죄수 아기는 간수가 돕습니다. 방문객 아기는 같은 세력의 보호자만 도울 수 있습니다. 거리, 가족 관계, 안전 조건도 충족해야 합니다. 매 끼니마다 발생하지는 않습니다. 끄면 진행 중인 요청을 안전하게 종료하고 점유를 해제하여 아기가 계속 먹도록 합니다.
+
+아기가 직접 음식을 가져와 안아 달라고 하는 모습을 보려면 Toddlers의 "Pawns feed toddlers who could feed themselves" 옵션을 직접 꺼 주세요. 혼자 먹지 못하는 아기와 긴급 돌봄에는 기존 먹이기 방식이 유지됩니다.</RDE_EnableToddlerHelpTooltip>
+  <RDE_ToddlerHelpColonists>정착민 아기 안아 올리기 지원</RDE_ToddlerHelpColonists>
+  <RDE_ToddlerHelpVisitors>방문객 아기 안아 올리기 지원</RDE_ToddlerHelpVisitors>
+  <RDE_ToddlerHelpPrisoners>죄수 아기 안아 올리기 지원</RDE_ToddlerHelpPrisoners>
+  <RDE_ToddlerHelpSlaves>노예 아기 안아 올리기 지원</RDE_ToddlerHelpSlaves>
+  <RDE_ChairRadius>의자 탐색 반경: {0}</RDE_ChairRadius>
+  <RDE_HelperRadius>도움을 줄 사람 탐색 반경: {0}</RDE_HelperRadius>
+  <RDE_NormalWait>일반 도움 대기 시간: {0}초</RDE_NormalWait>
+  <RDE_HungryWait>배고플 때 도움 대기 시간: {0}초</RDE_HungryWait>
+  <RDE_CriticalFood>음식 욕구가 {0}% 미만이면 즉시 일반 식사로 전환</RDE_CriticalFood>
+  <RDE_AllowNonParents>부모가 아닌 사람의 도움 허용</RDE_AllowNonParents>
+  <RDE_ShowMote>도움 요청 말풍선 표시</RDE_ShowMote>
+  <RDE_Debug>디버그 로그 기록</RDE_Debug>
+  <RDE_ManualAssist>랫킨 아기를 의자에 안아 올려 식사 돕기</RDE_ManualAssist>
+  <RDE_RequestMote_Low>Mabba... goo? Hup-hup!</RDE_RequestMote_Low>
+  <RDE_RequestMote_Medium>Mabba... 안아 줘! 맘마, hup-hup!</RDE_RequestMote_Medium>
+  <RDE_RequestMote_High>의자에 안아 올려 줘! 맘마 먹고 싶어!</RDE_RequestMote_High>
+  <RDE_BabyTalk_OrdinaryChair_0>Hup... mee? Nyaa!</RDE_BabyTalk_OrdinaryChair_0>
+  <RDE_BabyTalk_OrdinaryChair_1>Mee-yaa, nom-nom... hee!</RDE_BabyTalk_OrdinaryChair_1>
+  <RDE_BabyTalk_OrdinaryChair_2>Nyaa-mee! Nomma, nomma... yaa-hee!</RDE_BabyTalk_OrdinaryChair_2>
+  <RDE_BabyTalk_RatkinChair_0>Goo... nom? Mmm!</RDE_BabyTalk_RatkinChair_0>
+  <RDE_BabyTalk_RatkinChair_1>Gooma-bba, nomma... hee-hee!</RDE_BabyTalk_RatkinChair_1>
+  <RDE_BabyTalk_RatkinChair_2>Mabba-doobie! Nom-nom... nyaa-hee!</RDE_BabyTalk_RatkinChair_2>
+  <RDE_BabyTalk_NoHelp_0>Mabba... hup?</RDE_BabyTalk_NoHelp_0>
+  <RDE_BabyTalk_NoHelp_1>Huppa, huppa... mee-eh?</RDE_BabyTalk_NoHelp_1>
+  <RDE_BabyTalk_NoHelp_2>Maaa-wuh! Hup-ba, mee-yaa... waaah!</RDE_BabyTalk_NoHelp_2>
+  <RDE_SpecialSeats>변기 및 기타 특수 자리에서 식사</RDE_SpecialSeats>
+  <RDE_SpecialSeatsTooltip>먹는 랫킨의 신분에 따라 특수 자리를 독립 의자처럼 쓸 수 있는지 설정합니다. 유아에게도 적용됩니다. 기본값은 죄수와 노예만 켜짐, 정착민과 방문객은 꺼짐입니다. 일반 의자를 우선합니다. 유아는 해당 신분의 실험적 안아 주기 설정도 필요하며, 그 기본값은 기존과 같습니다.</RDE_SpecialSeatsTooltip>
+  <RDE_SpecialSeatsColonists>정착민 랫킨: 특수 자리 식사 허용</RDE_SpecialSeatsColonists>
+  <RDE_SpecialSeatsVisitors>방문객 랫킨: 특수 자리 식사 허용</RDE_SpecialSeatsVisitors>
+  <RDE_SpecialSeatsPrisoners>죄수 랫킨: 특수 자리 식사 허용</RDE_SpecialSeatsPrisoners>
+  <RDE_SpecialSeatsSlaves>노예 랫킨: 특수 자리 식사 허용</RDE_SpecialSeatsSlaves>
+  <RDE_BabyTalk_Toilet_0>Mabba... eh? Nuu...</RDE_BabyTalk_Toilet_0>
+  <RDE_BabyTalk_Toilet_1>Mee-eh... nom? Hup...</RDE_BabyTalk_Toilet_1>
+  <RDE_BabyTalk_Toilet_2>Waa... hup-ba! Nuu-mee!</RDE_BabyTalk_Toilet_2>
+  <RDE_BabyTalk_SpecialSeat_0>Mee... huh? Mabba...</RDE_BabyTalk_SpecialSeat_0>
+  <RDE_BabyTalk_SpecialSeat_1>Hup... mee-eh? Nom...</RDE_BabyTalk_SpecialSeat_1>
+  <RDE_BabyTalk_SpecialSeat_2>Maaa... hup-hup! Mee-eh!</RDE_BabyTalk_SpecialSeat_2>
+</LanguageData>

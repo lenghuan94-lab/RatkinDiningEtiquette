@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <RDE_EatUsingChairAsTable.reportString>椅子を食卓にして食事中。</RDE_EatUsingChairAsTable.reportString>
+  <RDE_ToddlerPrepareDiningRequest.reportString>椅子のそばにごはんを運んでいる。</RDE_ToddlerPrepareDiningRequest.reportString>
+  <RDE_ToddlerWaitForDiningHelp.reportString>椅子に抱き上げてもらうのを待っている。</RDE_ToddlerWaitForDiningHelp.reportString>
+  <RDE_AssistRatToddlerDining.reportString>TargetAを椅子に抱き上げている。</RDE_AssistRatToddlerDining.reportString>
+  <RDE_ToddlerEatAtChair.reportString>椅子でごはんを食べている。</RDE_ToddlerEatAtChair.reportString>
+  <RDE_ToddlerEatHeldFoodOnFloor.reportString>手に持ったごはんを床で食べている。</RDE_ToddlerEatHeldFoodOnFloor.reportString>
+  <RDE_ProvideRatToddlerDiningMeal.reportString>ごはんを運び、TargetAを椅子に抱き上げている。</RDE_ProvideRatToddlerDiningMeal.reportString>
+  <RDE_ToddlerWaitForMeal.reportString>ごはんとだっこを待っている。</RDE_ToddlerWaitForMeal.reportString>
+  <RDE_ReturnDiningChild.reportString>TargetAを安全な場所へ抱いて戻っている。</RDE_ReturnDiningChild.reportString>
+</LanguageData>

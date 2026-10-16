@@ -1,0 +1,303 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <ThoughtDef>
+    <defName>RDE_UsedChairAsTable</defName>
+    <thoughtClass>RatkinDiningEtiquette.Thought_Memory_RatDining</thoughtClass>
+    <durationDays>1</durationDays>
+    <stackLimit>1</stackLimit>
+    <developmentalStageFilter>Baby, Child, Adult</developmentalStageFilter>
+    <stages>
+      <li>
+        <label>room for dinner</label>
+        <description>The big chair has room for my dinner. No floor food, and I can reach it!</description>
+        <baseMoodEffect>1</baseMoodEffect>
+      </li>
+      <li>
+        <label>the big chair serves dinner again</label>
+        <description>Dinner here again! Big chair, full tummy.</description>
+        <baseMoodEffect>2</baseMoodEffect>
+      </li>
+      <li>
+        <label>sit still, dinner!</label>
+        <description>This chair seats people and dinner. Stay there, dinner. Here I come!</description>
+        <baseMoodEffect>3</baseMoodEffect>
+      </li>
+      <li>
+        <label>a borrowed dinner stand</label>
+        <description>Other people sit on chairs. I put dinner on mine. Small paws, plenty of ideas.</description>
+        <baseMoodEffect>1</baseMoodEffect>
+      </li>
+      <li>
+        <label>my chair-sized diner</label>
+        <description>This chair again. Today's diner only serves guests my size.</description>
+        <baseMoodEffect>2</baseMoodEffect>
+      </li>
+      <li>
+        <label>usual spot, my dinner</label>
+        <description>This chair makes a handy food stand. Anyone wanting a seat can wait until I finish this bite.</description>
+        <baseMoodEffect>3</baseMoodEffect>
+      </li>
+      <li>
+        <label>borrowing a chair again</label>
+        <description>Dinner on the seat. It works, but it hardly looks like a proper meal.</description>
+        <baseMoodEffect>-1</baseMoodEffect>
+      </li>
+      <li>
+        <label>dinner sits, I stand</label>
+        <description>A chair again. Dinner gets a seat. This Ratkin does not.</description>
+        <baseMoodEffect>-2</baseMoodEffect>
+      </li>
+      <li>
+        <label>no pictures of this meal</label>
+        <description>How many times now? People think I am having dinner. Really, I am serving a chair.</description>
+        <baseMoodEffect>-3</baseMoodEffect>
+      </li>
+      <li>
+        <label>one makeshift meal</label>
+        <description>Borrow a chair for dinner, then let it get back to being a chair. One makeshift meal will do.</description>
+        <baseMoodEffect>-1</baseMoodEffect>
+      </li>
+      <li>
+        <label>the temporary fix gets renewed</label>
+        <description>Dinner on a chair again. This temporary arrangement gets renewed surprisingly often.</description>
+        <baseMoodEffect>-2</baseMoodEffect>
+      </li>
+      <li>
+        <label>paying dinner rent to a chair</label>
+        <description>Meal after meal on this seat. The chair is becoming my permanent dinner address.</description>
+        <baseMoodEffect>-3</baseMoodEffect>
+      </li>
+    </stages>
+  </ThoughtDef>
+  <ThoughtDef>
+    <defName>RDE_RatkinChairAsTable</defName>
+    <thoughtClass>RatkinDiningEtiquette.Thought_Memory_RatDining</thoughtClass>
+    <durationDays>1</durationDays>
+    <stackLimit>1</stackLimit>
+    <developmentalStageFilter>Baby, Child, Adult</developmentalStageFilter>
+    <stages>
+      <li>
+        <label>little chair, dinner time!</label>
+        <description>Dinner is close enough for my paws. Little chair, dinner time!</description>
+        <baseMoodEffect>2</baseMoodEffect>
+      </li>
+      <li>
+        <label>dinner is so close</label>
+        <description>Dinner by the little chair again. Reach out a paw and there is something tasty.</description>
+        <baseMoodEffect>3</baseMoodEffect>
+      </li>
+      <li>
+        <label>my little chair!</label>
+        <description>My little chair! Dinner goes here. Please, please do not move it!</description>
+        <baseMoodEffect>4</baseMoodEffect>
+      </li>
+      <li>
+        <label>little chair, big ideas</label>
+        <description>A Ratkin chair holds dinner at just the right height. Small furniture for small diners. Handy!</description>
+        <baseMoodEffect>2</baseMoodEffect>
+      </li>
+      <li>
+        <label>the chair diner is open</label>
+        <description>Dinner at my little stand again. No tickets, and no crowding by tall guests.</description>
+        <baseMoodEffect>3</baseMoodEffect>
+      </li>
+      <li>
+        <label>this Ratkin has a regular spot</label>
+        <description>I know this little chair well. Set down dinner, reach out a paw, and another comfortable meal is ready.</description>
+        <baseMoodEffect>4</baseMoodEffect>
+      </li>
+      <li>
+        <label>lower makes it easier</label>
+        <description>The little chair is just the right height. At least dinner does not require stretching myself taller.</description>
+        <baseMoodEffect>1</baseMoodEffect>
+      </li>
+      <li>
+        <label>Ratkin ingenuity</label>
+        <description>Dinner on the little chair again. Do not laugh. This is furniture use tailored to my height.</description>
+        <baseMoodEffect>2</baseMoodEffect>
+      </li>
+      <li>
+        <label>this one, leave it here</label>
+        <description>My paws know this height now. Other people change furniture; I have found my chair.</description>
+        <baseMoodEffect>3</baseMoodEffect>
+      </li>
+      <li>
+        <label>right size, easy meal</label>
+        <description>A Ratkin chair holds dinner without tiptoeing or bending. Little furniture has its advantages.</description>
+        <baseMoodEffect>1</baseMoodEffect>
+      </li>
+      <li>
+        <label>familiar paws, familiar chair</label>
+        <description>Dinner here again. Put it on the seat, and my paws already know where to reach.</description>
+        <baseMoodEffect>2</baseMoodEffect>
+      </li>
+      <li>
+        <label>little chair, old dinner friend</label>
+        <description>After a few meals, this little chair understands Ratkin better than some tall people do. Keep it here.</description>
+        <baseMoodEffect>3</baseMoodEffect>
+      </li>
+    </stages>
+  </ThoughtDef>
+  <ThoughtDef>
+    <defName>RDE_ToddlerNoDiningHelp</defName>
+    <thoughtClass>RatkinDiningEtiquette.Thought_Memory_RatDining</thoughtClass>
+    <durationDays>1</durationDays>
+    <stackLimit>1</stackLimit>
+    <developmentalStageFilter>Baby, Child</developmentalStageFilter>
+    <stages>
+      <li>
+        <label>where is my lift?</label>
+        <description>Dinner is ready. The chair is over there. I am still over here.</description>
+        <baseMoodEffect>-1</baseMoodEffect>
+      </li>
+      <li>
+        <label>another dinner on the floor</label>
+        <description>Nobody came to lift me... Dinner on the floor again.</description>
+        <baseMoodEffect>-2</baseMoodEffect>
+      </li>
+      <li>
+        <label>my paws are tired of asking</label>
+        <description>Again! I still cannot get up there. Even dinner is getting sleepy waiting.</description>
+        <baseMoodEffect>-3</baseMoodEffect>
+      </li>
+    </stages>
+  </ThoughtDef>
+  <ThoughtDef>
+    <defName>RDE_ToiletAsTable</defName>
+    <thoughtClass>RatkinDiningEtiquette.Thought_Memory_RatDining</thoughtClass>
+    <durationDays>1</durationDays>
+    <stackLimit>1</stackLimit>
+    <developmentalStageFilter>Baby, Child, Adult</developmentalStageFilter>
+    <stages>
+      <li>
+        <label>not my dinner chair</label>
+        <description>They put me on the potty with my dinner. Cold bottom, funny smell... I want a hug.</description>
+        <baseMoodEffect>-1</baseMoodEffect>
+      </li>
+      <li>
+        <label>potty dinner again</label>
+        <description>Dinner here again? I tuck my tail up and hold my food tight. Please take me somewhere else.</description>
+        <baseMoodEffect>-2</baseMoodEffect>
+      </li>
+      <li>
+        <label>take me off, please</label>
+        <description>I reached up for a hug and got another potty dinner. I ate, but I still want to be picked up.</description>
+        <baseMoodEffect>-3</baseMoodEffect>
+      </li>
+      <li>
+        <label>the wrong kind of bowl</label>
+        <description>I know what this is for. Calling it my little dinner table does not make it one.</description>
+        <baseMoodEffect>-1</baseMoodEffect>
+      </li>
+      <li>
+        <label>the bathroom regular</label>
+        <description>Back at the toilet for dinner. I ate quickly and hoped nobody would come in.</description>
+        <baseMoodEffect>-2</baseMoodEffect>
+      </li>
+      <li>
+        <label>my very own unwanted diner</label>
+        <description>Everyone has a usual dinner spot now. Mine has a flush. Please stop laughing.</description>
+        <baseMoodEffect>-3</baseMoodEffect>
+      </li>
+      <li>
+        <label>do not call it a throne</label>
+        <description>Dinner on a toilet. A royal banquet, apparently. My ears are burning, and I am not laughing.</description>
+        <baseMoodEffect>-1</baseMoodEffect>
+      </li>
+      <li>
+        <label>the joke is still not funny</label>
+        <description>Another meal on this seat. I kept my tail clear and my eyes on the door.</description>
+        <baseMoodEffect>-2</baseMoodEffect>
+      </li>
+      <li>
+        <label>do not tell anyone</label>
+        <description>Yes, this is where I eat now. No, you may not give my toilet diner a name.</description>
+        <baseMoodEffect>-3</baseMoodEffect>
+      </li>
+      <li>
+        <label>dignity served on porcelain</label>
+        <description>There is a meal, a toilet, and me trying to pretend those things belong together.</description>
+        <baseMoodEffect>-1</baseMoodEffect>
+      </li>
+      <li>
+        <label>a reservation nobody wanted</label>
+        <description>The toilet again. Apparently my dinner reservation includes plumbing and an audience.</description>
+        <baseMoodEffect>-2</baseMoodEffect>
+      </li>
+      <li>
+        <label>the house special is resignation</label>
+        <description>Meal after meal here. I know where to put my tail now. That is not a skill I wanted.</description>
+        <baseMoodEffect>-3</baseMoodEffect>
+      </li>
+    </stages>
+  </ThoughtDef>
+  <ThoughtDef>
+    <defName>RDE_SpecialSeatAsTable</defName>
+    <thoughtClass>RatkinDiningEtiquette.Thought_Memory_RatDining</thoughtClass>
+    <durationDays>1</durationDays>
+    <stackLimit>1</stackLimit>
+    <developmentalStageFilter>Baby, Child, Adult</developmentalStageFilter>
+    <stages>
+      <li>
+        <label>a strange dinner perch</label>
+        <description>They put me on a strange seat with my food. I curled my tail up. Can we eat somewhere familiar?</description>
+        <baseMoodEffect>-1</baseMoodEffect>
+      </li>
+      <li>
+        <label>the strange seat again</label>
+        <description>This seat again... I hold my dinner close and look for the person who put me here.</description>
+        <baseMoodEffect>-2</baseMoodEffect>
+      </li>
+      <li>
+        <label>my paws want a hug</label>
+        <description>Another dinner up here. My tummy is full, but my paws still reach for someone to take me down.</description>
+        <baseMoodEffect>-3</baseMoodEffect>
+      </li>
+      <li>
+        <label>this is not a dinner table</label>
+        <description>They said any seat would do. This one looks as if it has a very different job.</description>
+        <baseMoodEffect>-1</baseMoodEffect>
+      </li>
+      <li>
+        <label>borrowed seat, uneasy dinner</label>
+        <description>Eating here again. I keep wondering whether somebody is about to need this thing.</description>
+        <baseMoodEffect>-2</baseMoodEffect>
+      </li>
+      <li>
+        <label>the colony odd-seat diner</label>
+        <description>My usual dinner spot is now a seat with another purpose. Nobody asked whether I wanted that.</description>
+        <baseMoodEffect>-3</baseMoodEffect>
+      </li>
+      <li>
+        <label>please stop watching</label>
+        <description>Dinner on this peculiar seat. I can hear the jokes already. Let me finish in peace.</description>
+        <baseMoodEffect>-1</baseMoodEffect>
+      </li>
+      <li>
+        <label>the seat gets another shift</label>
+        <description>Another meal here. This seat has its real job, then an extra shift humiliating me.</description>
+        <baseMoodEffect>-2</baseMoodEffect>
+      </li>
+      <li>
+        <label>this joke has become furniture</label>
+        <description>I have eaten here so often that people point me straight to it. My ears flatten every time.</description>
+        <baseMoodEffect>-3</baseMoodEffect>
+      </li>
+      <li>
+        <label>a seat doing the wrong job</label>
+        <description>A meal on furniture meant for something else. A practical solution, if one ignores my dignity.</description>
+        <baseMoodEffect>-1</baseMoodEffect>
+      </li>
+      <li>
+        <label>the makeshift spot becomes routine</label>
+        <description>Back here for dinner. The arrangement gets less temporary while my objections get quieter.</description>
+        <baseMoodEffect>-2</baseMoodEffect>
+      </li>
+      <li>
+        <label>assigned to the odd seat</label>
+        <description>This is my dinner spot now, apparently. I finish the meal and leave before anyone makes another remark.</description>
+        <baseMoodEffect>-3</baseMoodEffect>
+      </li>
+    </stages>
+  </ThoughtDef>
+</Defs>

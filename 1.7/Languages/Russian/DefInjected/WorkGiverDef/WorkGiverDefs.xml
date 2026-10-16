@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <RDE_AssistRatToddlerDining.label>помогать малышу-раткину поесть</RDE_AssistRatToddlerDining.label>
+  <RDE_AssistRatToddlerDining.verb>помочь</RDE_AssistRatToddlerDining.verb>
+  <RDE_AssistRatToddlerDining.gerund>помогает</RDE_AssistRatToddlerDining.gerund>
+  <RDE_WardenAssistRatToddlerDining.label>помогать пленному малышу-раткину поесть</RDE_WardenAssistRatToddlerDining.label>
+  <RDE_WardenAssistRatToddlerDining.verb>помочь</RDE_WardenAssistRatToddlerDining.verb>
+  <RDE_WardenAssistRatToddlerDining.gerund>помогает</RDE_WardenAssistRatToddlerDining.gerund>
+</LanguageData>

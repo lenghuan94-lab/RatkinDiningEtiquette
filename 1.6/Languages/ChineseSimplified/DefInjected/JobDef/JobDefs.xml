@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <RDE_EatUsingChairAsTable.reportString>正在把椅子当饭台吃饭。</RDE_EatUsingChairAsTable.reportString>
+  <RDE_ToddlerPrepareDiningRequest.reportString>正在拿饭去椅子旁。</RDE_ToddlerPrepareDiningRequest.reportString>
+  <RDE_ToddlerWaitForDiningHelp.reportString>正在等人抱上椅子吃饭。</RDE_ToddlerWaitForDiningHelp.reportString>
+  <RDE_AssistRatToddlerDining.reportString>正在抱TargetA上椅子吃饭。</RDE_AssistRatToddlerDining.reportString>
+  <RDE_ToddlerEatAtChair.reportString>正在椅子上吃饭饭。</RDE_ToddlerEatAtChair.reportString>
+  <RDE_ToddlerEatHeldFoodOnFloor.reportString>正在地上吃手里的饭。</RDE_ToddlerEatHeldFoodOnFloor.reportString>
+  <RDE_ProvideRatToddlerDiningMeal.reportString>正在拿饭并抱TargetA上椅子。</RDE_ProvideRatToddlerDiningMeal.reportString>
+  <RDE_ToddlerWaitForMeal.reportString>正在等饭饭和抱抱。</RDE_ToddlerWaitForMeal.reportString>
+  <RDE_ReturnDiningChild.reportString>正在把TargetA抱回安全位置。</RDE_ReturnDiningChild.reportString>
+</LanguageData>

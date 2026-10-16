@@ -1,0 +1,7 @@
+<Project>
+  <PropertyGroup>
+    <BaseIntermediateOutputPath>obj\$(MSBuildProjectName)\</BaseIntermediateOutputPath>
+    <RimWorldManagedDir Condition="'$(RimWorldManagedDir)' == '' and Exists('D:\SteamLibrary\steamapps\common\RimWorld\RimWorldWin64_Data\Managed\Assembly-CSharp.dll')">D:\SteamLibrary\steamapps\common\RimWorld\RimWorldWin64_Data\Managed</RimWorldManagedDir>
+    <RimWorldManagedDir Condition="'$(RimWorldManagedDir)' == ''">$(MSBuildThisFileDirectory)..\.tools\dining-audit-2026-10-03\bin\Release\net472</RimWorldManagedDir>
+  </PropertyGroup>
+</Project>

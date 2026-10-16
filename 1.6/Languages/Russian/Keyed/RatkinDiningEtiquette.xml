@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <RDE_SettingsTitle>Вот твой стол!!</RDE_SettingsTitle>
+  <RDE_EnableChairTable>Разрешить раткинам (кроме малышей) есть со стульев</RDE_EnableChairTable>
+  <RDE_EnableToddlerHelp>Экспериментальная функция: поднимать малышей-раткинов на стулья</RDE_EnableToddlerHelp>
+  <RDE_EnableToddlerHelpTooltip>По умолчанию включена только помощь малышам-колонистам. Помощь гостям, заключённым и рабам по умолчанию отключена; её можно включить отдельно. Малыш-раткин, умеющий есть самостоятельно, может принести еду и попросить взрослого поднять его на отдельный стул. Взрослый также может сам принести еду и устроить малышу обед на стуле. Малышам-колонистам и рабам помогают взрослые с включённой работой по уходу за детьми, заключённым — надзиратели. Малышам-гостям могут помогать только взрослые из их собственной фракции. Условия расстояния, родства и безопасности сохраняются. Это происходит не при каждом приёме пищи. При отключении текущие просьбы безопасно отменяются, занятые объекты освобождаются, а малыш продолжает есть.
+
+Чтобы увидеть, как малыш сам приносит еду и просится на ручки, вручную отключите в Toddlers опцию «Pawns feed toddlers who could feed themselves». Младенцев, не умеющих есть самостоятельно, и детей, нуждающихся в срочной помощи, по-прежнему кормят обычным способом.</RDE_EnableToddlerHelpTooltip>
+  <RDE_ToddlerHelpColonists>Помощь малышам-колонистам</RDE_ToddlerHelpColonists>
+  <RDE_ToddlerHelpVisitors>Помощь малышам-гостям</RDE_ToddlerHelpVisitors>
+  <RDE_ToddlerHelpPrisoners>Помощь малышам-заключённым</RDE_ToddlerHelpPrisoners>
+  <RDE_ToddlerHelpSlaves>Помощь малышам-рабам</RDE_ToddlerHelpSlaves>
+  <RDE_ChairRadius>Радиус поиска стула: {0}</RDE_ChairRadius>
+  <RDE_HelperRadius>Радиус поиска помощника: {0}</RDE_HelperRadius>
+  <RDE_NormalWait>Обычное ожидание помощи: {0} сек.</RDE_NormalWait>
+  <RDE_HungryWait>Ожидание помощи при голоде: {0} сек.</RDE_HungryWait>
+  <RDE_CriticalFood>Сразу переходить к обычной еде при сытости ниже {0}%</RDE_CriticalFood>
+  <RDE_AllowNonParents>Разрешить помощь не только родителям</RDE_AllowNonParents>
+  <RDE_ShowMote>Показывать просьбу над головой</RDE_ShowMote>
+  <RDE_Debug>Записывать отладочные сообщения</RDE_Debug>
+  <RDE_ManualAssist>Поднять малыша-раткина на стул для еды</RDE_ManualAssist>
+  <RDE_RequestMote_Low>Mabba... goo? Hup-hup!</RDE_RequestMote_Low>
+  <RDE_RequestMote_Medium>Mabba... на ручки! Ням-ням, hup-hup!</RDE_RequestMote_Medium>
+  <RDE_RequestMote_High>Подними меня на стульчик! Хочу кушать!</RDE_RequestMote_High>
+  <RDE_BabyTalk_OrdinaryChair_0>Hup... mee? Nyaa!</RDE_BabyTalk_OrdinaryChair_0>
+  <RDE_BabyTalk_OrdinaryChair_1>Mee-yaa, nom-nom... hee!</RDE_BabyTalk_OrdinaryChair_1>
+  <RDE_BabyTalk_OrdinaryChair_2>Nyaa-mee! Nomma, nomma... yaa-hee!</RDE_BabyTalk_OrdinaryChair_2>
+  <RDE_BabyTalk_RatkinChair_0>Goo... nom? Mmm!</RDE_BabyTalk_RatkinChair_0>
+  <RDE_BabyTalk_RatkinChair_1>Gooma-bba, nomma... hee-hee!</RDE_BabyTalk_RatkinChair_1>
+  <RDE_BabyTalk_RatkinChair_2>Mabba-doobie! Nom-nom... nyaa-hee!</RDE_BabyTalk_RatkinChair_2>
+  <RDE_BabyTalk_NoHelp_0>Mabba... hup?</RDE_BabyTalk_NoHelp_0>
+  <RDE_BabyTalk_NoHelp_1>Huppa, huppa... mee-eh?</RDE_BabyTalk_NoHelp_1>
+  <RDE_BabyTalk_NoHelp_2>Maaa-wuh! Hup-ba, mee-yaa... waaah!</RDE_BabyTalk_NoHelp_2>
+  <RDE_SpecialSeats>Еда на туалетах и других особых сиденьях</RDE_SpecialSeats>
+  <RDE_SpecialSeatsTooltip>Разрешение использовать такие места вместо отдельного стула зависит от статуса едящего раткина и действует также на малышей. По умолчанию включено только для заключённых и рабов, выключено для колонистов и гостей. Обычные стулья предпочтительнее. Для малышей также нужна экспериментальная помощь их категории; прежние настройки помощи сохранены.</RDE_SpecialSeatsTooltip>
+  <RDE_SpecialSeatsColonists>Раткины-колонисты: еда на особых сиденьях</RDE_SpecialSeatsColonists>
+  <RDE_SpecialSeatsVisitors>Раткины-гости: еда на особых сиденьях</RDE_SpecialSeatsVisitors>
+  <RDE_SpecialSeatsPrisoners>Раткины-заключённые: еда на особых сиденьях</RDE_SpecialSeatsPrisoners>
+  <RDE_SpecialSeatsSlaves>Раткины-рабы: еда на особых сиденьях</RDE_SpecialSeatsSlaves>
+  <RDE_BabyTalk_Toilet_0>Mabba... eh? Nuu...</RDE_BabyTalk_Toilet_0>
+  <RDE_BabyTalk_Toilet_1>Mee-eh... nom? Hup...</RDE_BabyTalk_Toilet_1>
+  <RDE_BabyTalk_Toilet_2>Waa... hup-ba! Nuu-mee!</RDE_BabyTalk_Toilet_2>
+  <RDE_BabyTalk_SpecialSeat_0>Mee... huh? Mabba...</RDE_BabyTalk_SpecialSeat_0>
+  <RDE_BabyTalk_SpecialSeat_1>Hup... mee-eh? Nom...</RDE_BabyTalk_SpecialSeat_1>
+  <RDE_BabyTalk_SpecialSeat_2>Maaa... hup-hup! Mee-eh!</RDE_BabyTalk_SpecialSeat_2>
+</LanguageData>

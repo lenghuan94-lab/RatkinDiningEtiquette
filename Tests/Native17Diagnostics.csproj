@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>net10.0</TargetFramework><EnableDefaultCompileItems>false</EnableDefaultCompileItems>
+    <DisableImplicitFrameworkReferences>true</DisableImplicitFrameworkReferences><NETCoreAppMaximumVersion>10.0</NETCoreAppMaximumVersion><NoStdLib>true</NoStdLib>
+    <GenerateDependencyFile>false</GenerateDependencyFile><GenerateAssemblyInfo>false</GenerateAssemblyInfo>
+    <RimWorldDir>D:\SteamLibrary\steamapps\common\RimWorld</RimWorldDir>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="Native17Diagnostics.cs" />
+    <Compile Include="DiningHookTests.cs" />
+    <Compile Include="NativeSettingsTests.cs" />
+    <Reference Include="$(RimWorldDir)\Assembly-CSharp.dll"><Private>false</Private></Reference>
+    <Reference Include="$(RimWorldDir)\UnityStubs.dll"><Private>false</Private></Reference>
+    <Reference Include="$(RimWorldDir)\System*.dll" Exclude="$(RimWorldDir)\System.IO.Compression.Native.dll"><Private>false</Private></Reference>
+    <Reference Include="$(RimWorldDir)\netstandard.dll"><Private>false</Private></Reference>
+    <Reference Include="$(RimWorldDir)\mscorlib.dll"><Private>false</Private></Reference>
+  </ItemGroup>
+</Project>

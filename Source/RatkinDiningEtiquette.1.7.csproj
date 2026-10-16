@@ -1,0 +1,38 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>net10.0</TargetFramework>
+    <LangVersion>7.3</LangVersion>
+    <Nullable>disable</Nullable>
+    <AssemblyName>RatkinDiningEtiquette</AssemblyName>
+    <RootNamespace>RatkinDiningEtiquette</RootNamespace>
+    <Version>1.2.1</Version>
+    <EnableDefaultCompileItems>false</EnableDefaultCompileItems>
+    <OutputPath>..\1.7\Assemblies\</OutputPath>
+    <AppendTargetFrameworkToOutputPath>false</AppendTargetFrameworkToOutputPath>
+    <DebugType>none</DebugType>
+    <GenerateDependencyFile>false</GenerateDependencyFile>
+    <DisableImplicitFrameworkReferences>true</DisableImplicitFrameworkReferences>
+    <NETCoreAppMaximumVersion>10.0</NETCoreAppMaximumVersion>
+    <NoStdLib>true</NoStdLib>
+    <RimWorldDir Condition="'$(RimWorldDir)' == ''">D:\SteamLibrary\steamapps\common\RimWorld</RimWorldDir>
+    <WorkshopRoot Condition="'$(WorkshopRoot)' == ''">D:\SteamLibrary\steamapps\workshop\content\294100</WorkshopRoot>
+    <ToddlersAssemblyPath Condition="'$(ToddlersAssemblyPath)' == '' and Exists('$(WorkshopRoot)\2903359152\1.7\Assemblies\Toddlers.dll')">$(WorkshopRoot)\2903359152\1.7\Assemblies\Toddlers.dll</ToddlersAssemblyPath>
+    <ToddlersAssemblyPath Condition="'$(ToddlersAssemblyPath)' == ''">$(WorkshopRoot)\2903359152\1.6\Assemblies\Toddlers.dll</ToddlersAssemblyPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="$(RimWorldDir)\System*.dll" Exclude="$(RimWorldDir)\System.IO.Compression.Native.dll"><Private>false</Private></Reference>
+    <Reference Include="$(RimWorldDir)\mscorlib.dll"><Private>false</Private></Reference>
+    <Reference Include="$(RimWorldDir)\netstandard.dll"><Private>false</Private></Reference>
+    <Compile Include="**/*.cs" Exclude="obj/**;bin/**" />
+    <Reference Include="Assembly-CSharp"><HintPath>$(RimWorldDir)\Assembly-CSharp.dll</HintPath><Private>false</Private></Reference>
+    <Reference Include="UnityStubs"><HintPath>$(RimWorldDir)\UnityStubs.dll</HintPath><Private>false</Private></Reference>
+    <Reference Include="0Harmony"><HintPath>$(WorkshopRoot)\2009463077\1.7\Assemblies\0Harmony.dll</HintPath><Private>false</Private></Reference>
+    <Reference Include="Toddlers"><HintPath>$(ToddlersAssemblyPath)</HintPath><Private>false</Private></Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <RuntimeXml Include="..\1.6\**\*.xml" />
+  </ItemGroup>
+  <Target Name="SynchronizeRuntimeXml" AfterTargets="Build">
+    <Copy SourceFiles="@(RuntimeXml)" DestinationFiles="@(RuntimeXml->'..\1.7\%(RecursiveDir)%(Filename)%(Extension)')" SkipUnchangedFiles="true" />
+  </Target>
+</Project>

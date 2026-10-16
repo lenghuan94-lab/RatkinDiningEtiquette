@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <RDE_EatUsingChairAsTable.reportString>ест, используя стул как стол.</RDE_EatUsingChairAsTable.reportString>
+  <RDE_ToddlerPrepareDiningRequest.reportString>несёт еду к стулу.</RDE_ToddlerPrepareDiningRequest.reportString>
+  <RDE_ToddlerWaitForDiningHelp.reportString>ждёт, когда помогут забраться на стул.</RDE_ToddlerWaitForDiningHelp.reportString>
+  <RDE_AssistRatToddlerDining.reportString>поднимает TargetA на стул.</RDE_AssistRatToddlerDining.reportString>
+  <RDE_ToddlerEatAtChair.reportString>кушает на стуле.</RDE_ToddlerEatAtChair.reportString>
+  <RDE_ToddlerEatHeldFoodOnFloor.reportString>ест на полу еду из рук.</RDE_ToddlerEatHeldFoodOnFloor.reportString>
+  <RDE_ProvideRatToddlerDiningMeal.reportString>несёт еду и поднимает TargetA на стул.</RDE_ProvideRatToddlerDiningMeal.reportString>
+  <RDE_ToddlerWaitForMeal.reportString>ждёт еду и просится на ручки.</RDE_ToddlerWaitForMeal.reportString>
+  <RDE_ReturnDiningChild.reportString>возвращает TargetA в безопасное место.</RDE_ReturnDiningChild.reportString>
+</LanguageData>

@@ -1,0 +1,17 @@
+**/bin/
+**/obj/
+__pycache__/
+*.pyc
+*.pdb
+*.log
+*.user
+*.suo
+.vs/
+.idea/
+.tools/
+_artifacts/
+.dotnet/
+.templateengine/
+.env
+.env.*
+*.zip

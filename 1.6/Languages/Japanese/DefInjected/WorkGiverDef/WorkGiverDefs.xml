@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <RDE_AssistRatToddlerDining.label>ラトキンの赤ちゃんの食事を手伝う</RDE_AssistRatToddlerDining.label>
+  <RDE_AssistRatToddlerDining.verb>手伝う</RDE_AssistRatToddlerDining.verb>
+  <RDE_AssistRatToddlerDining.gerund>手伝っている</RDE_AssistRatToddlerDining.gerund>
+  <RDE_WardenAssistRatToddlerDining.label>囚人のラトキンの赤ちゃんの食事を手伝う</RDE_WardenAssistRatToddlerDining.label>
+  <RDE_WardenAssistRatToddlerDining.verb>手伝う</RDE_WardenAssistRatToddlerDining.verb>
+  <RDE_WardenAssistRatToddlerDining.gerund>手伝っている</RDE_WardenAssistRatToddlerDining.gerund>
+</LanguageData>
